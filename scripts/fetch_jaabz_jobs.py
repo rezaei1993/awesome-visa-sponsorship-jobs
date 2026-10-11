@@ -18,6 +18,7 @@ JOB_TYPE = os.environ.get("JOB_TYPE", "remote").strip().lower()
 OUTPUT = os.environ.get("OUTPUT_FILE", "DAILY_JOBS.md")
 README = os.environ.get("README_FILE", "README.md")
 LIMIT = int(os.environ.get("JOB_LIMIT", "75"))
+README_LIMIT = int(os.environ.get("README_JOB_LIMIT", "15"))
 SITE = "https://jaabz.com"
 
 START = "<!-- JAABZ-DAILY-JOBS:START -->"
@@ -103,7 +104,8 @@ def posted_label(job: dict) -> str:
         return iso.replace("|", "/")
 
 
-def table_rows(jobs: list[dict]) -> list[str]:
+def table_rows(jobs: list[dict], limit: int | None = None) -> list[str]:
+    cap = LIMIT if limit is None else max(0, int(limit))
     rows = [
         "| Role | Company | Country | Posted (UTC) | Tags | Link |",
         "| --- | --- | --- | --- | --- | --- |",
@@ -113,7 +115,7 @@ def table_rows(jobs: list[dict]) -> list[str]:
             f"| _No matching jobs in today's digest_ | — | — | — | — | [Jaabz]({SITE}) |"
         )
         return rows
-    for job in jobs[:LIMIT]:
+    for job in jobs[:cap]:
         title = (job.get("title") or "Untitled").replace("|", "/")
         company = (job.get("company") or "—").replace("|", "/")
         country = (job.get("country") or "—").replace("|", "/")
@@ -141,7 +143,7 @@ def render_daily_file(jobs: list[dict], meta: dict, today: str) -> str:
         "",
         f"Browse more: [{meta['label']} hub]({meta['hub']})",
         "",
-        *table_rows(jobs),
+        *table_rows(jobs, LIMIT),
         "",
         "## About this file",
         "",
@@ -159,9 +161,9 @@ def render_readme_block(jobs: list[dict], meta: dict, today: str) -> str:
         START,
         f"## Today's {meta['label']} jobs from Jaabz",
         "",
-        f"_Auto-updated · UTC **{today}** · [full digest](DAILY_JOBS.md) · [{meta['label']} hub]({meta['hub']})_",
+        f"_Auto-updated · UTC **{today}** · showing **{min(len(jobs), README_LIMIT)}** of {len(jobs)} · [full digest](DAILY_JOBS.md) · [{meta['label']} hub]({meta['hub']})_",
         "",
-        *table_rows(jobs),
+        *table_rows(jobs, README_LIMIT),
         "",
         END,
     ]
