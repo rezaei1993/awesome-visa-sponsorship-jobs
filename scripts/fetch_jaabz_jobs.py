@@ -17,7 +17,7 @@ CATALOG_KEY = (os.environ.get("JAABZ_CATALOG_KEY") or "").strip()
 JOB_TYPE = os.environ.get("JOB_TYPE", "remote").strip().lower()
 OUTPUT = os.environ.get("OUTPUT_FILE", "DAILY_JOBS.md")
 README = os.environ.get("README_FILE", "README.md")
-LIMIT = int(os.environ.get("JOB_LIMIT", "20"))
+LIMIT = int(os.environ.get("JOB_LIMIT", "75"))
 SITE = "https://jaabz.com"
 
 START = "<!-- JAABZ-DAILY-JOBS:START -->"
