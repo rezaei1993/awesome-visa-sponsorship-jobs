@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch Jaabz featured jobs and update DAILY_JOBS.md + README.md section."""
+"""Refresh DAILY_JOBS.md + README.md from a private Jaabz catalog (credentials via env/secrets only)."""
 
 from __future__ import annotations
 
@@ -7,14 +7,17 @@ import json
 import os
 import re
 import sys
+import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
-API_URL = os.environ.get("JAABZ_API_URL", "https://jaabz.com/api/featured-jobs")
+CATALOG_URL = (os.environ.get("JAABZ_CATALOG_URL") or "").strip()
+CATALOG_KEY = (os.environ.get("JAABZ_CATALOG_KEY") or "").strip()
 JOB_TYPE = os.environ.get("JOB_TYPE", "remote").strip().lower()
 OUTPUT = os.environ.get("OUTPUT_FILE", "DAILY_JOBS.md")
 README = os.environ.get("README_FILE", "README.md")
-LIMIT = int(os.environ.get("JOB_LIMIT", "15"))
+LIMIT = int(os.environ.get("JOB_LIMIT", "20"))
 SITE = "https://jaabz.com"
 
 START = "<!-- JAABZ-DAILY-JOBS:START -->"
@@ -22,19 +25,19 @@ END = "<!-- JAABZ-DAILY-JOBS:END -->"
 
 TYPE_META = {
     "remote": {
-        "flag": "remote",
+        "focus": "remote",
         "title": "Daily Remote Tech Jobs from Jaabz",
         "hub": f"{SITE}/jobs/remote",
         "label": "Remote",
     },
     "visa": {
-        "flag": "visa_sponsorship",
+        "focus": "visa",
         "title": "Daily Visa Sponsorship Tech Jobs from Jaabz",
         "hub": f"{SITE}/jobs/visasponsorship",
         "label": "Visa sponsorship",
     },
     "relocation": {
-        "flag": "relocation",
+        "focus": "relocation",
         "title": "Daily Relocation Tech Jobs from Jaabz",
         "hub": f"{SITE}/jobs/relocation",
         "label": "Relocation",
@@ -42,13 +45,41 @@ TYPE_META = {
 }
 
 
-def fetch_jobs() -> list[dict]:
-    req = urllib.request.Request(
-        API_URL,
-        headers={"User-Agent": "jaabz-awesome-list-bot/1.0 (+https://github.com/rezaei1993)"},
+def fetch_jobs(focus: str) -> list[dict]:
+    if not CATALOG_URL or not CATALOG_KEY:
+        print(
+            "Missing JAABZ_CATALOG_URL or JAABZ_CATALOG_KEY "
+            "(set as GitHub Actions repository secrets).",
+            file=sys.stderr,
+        )
+        return []
+
+    parsed = urllib.parse.urlparse(CATALOG_URL)
+    qs = urllib.parse.parse_qs(parsed.query)
+    qs["focus"] = [focus]
+    qs["limit"] = [str(LIMIT)]
+    url = urllib.parse.urlunparse(
+        parsed._replace(query=urllib.parse.urlencode(qs, doseq=True))
     )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        payload = json.loads(resp.read().decode("utf-8"))
+
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "jaabz-awesome-list-bot/1.1",
+            "Accept": "application/json",
+            "X-Catalog-Key": CATALOG_KEY,
+        },
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=45) as resp:
+            payload = json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as exc:
+        print(f"Catalog request failed: HTTP {exc.code}", file=sys.stderr)
+        return []
+    except Exception as exc:  # noqa: BLE001
+        print(f"Catalog request failed: {exc}", file=sys.stderr)
+        return []
+
     return payload.get("jobs") or []
 
 
@@ -58,18 +89,35 @@ def abs_url(path: str) -> str:
     return SITE + (path if path.startswith("/") else "/" + path)
 
 
+def posted_label(job: dict) -> str:
+    raw = (job.get("posted_at") or "").strip()
+    if raw:
+        return raw.replace("|", "/")
+    iso = (job.get("posted_at_iso") or "").strip()
+    if not iso:
+        return "—"
+    try:
+        dt = datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(timezone.utc)
+        return dt.strftime("%Y-%m-%d %H:%M UTC")
+    except ValueError:
+        return iso.replace("|", "/")
+
+
 def table_rows(jobs: list[dict]) -> list[str]:
     rows = [
-        "| Role | Company | Country | Tags | Link |",
-        "| --- | --- | --- | --- | --- |",
+        "| Role | Company | Country | Posted (UTC) | Tags | Link |",
+        "| --- | --- | --- | --- | --- | --- |",
     ]
     if not jobs:
-        rows.append(f"| _No matching jobs in today's featured feed_ | — | — | — | [Jaabz]({SITE}) |")
+        rows.append(
+            f"| _No matching jobs in today's digest_ | — | — | — | — | [Jaabz]({SITE}) |"
+        )
         return rows
     for job in jobs[:LIMIT]:
         title = (job.get("title") or "Untitled").replace("|", "/")
         company = (job.get("company") or "—").replace("|", "/")
         country = (job.get("country") or "—").replace("|", "/")
+        posted = posted_label(job)
         tags = []
         if job.get("remote"):
             tags.append("remote")
@@ -79,7 +127,9 @@ def table_rows(jobs: list[dict]) -> list[str]:
             tags.append("relocation")
         tag_s = ", ".join(tags) or "—"
         url = abs_url(job.get("url") or "/")
-        rows.append(f"| {title} | {company} | {country} | {tag_s} | [Apply]({url}) |")
+        rows.append(
+            f"| {title} | {company} | {country} | {posted} | {tag_s} | [Apply]({url}) |"
+        )
     return rows
 
 
@@ -133,7 +183,6 @@ def upsert_readme(block: str) -> None:
     elif "## Contents" in text:
         text = text.replace("## Contents", block + "\n\n## Contents", 1)
     elif "## Daily jobs from Jaabz" in text:
-        # replace old static section through next ## or EOF-ish
         text = re.sub(
             r"## Daily jobs from Jaabz\n.*?(?=\n## |\Z)",
             block + "\n\n",
@@ -152,12 +201,11 @@ def main() -> int:
         print(f"Unknown JOB_TYPE={JOB_TYPE}", file=sys.stderr)
         return 1
     meta = TYPE_META[JOB_TYPE]
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    all_jobs = fetch_jobs()
-    matched = [j for j in all_jobs if j.get(meta["flag"])]
-    open(OUTPUT, "w", encoding="utf-8").write(render_daily_file(matched, meta, today))
-    print(f"Wrote {OUTPUT}: {len(matched)}/{len(all_jobs)} jobs for type={JOB_TYPE}")
-    upsert_readme(render_readme_block(matched, meta, today))
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
+    jobs = fetch_jobs(meta["focus"])
+    open(OUTPUT, "w", encoding="utf-8").write(render_daily_file(jobs, meta, today))
+    print(f"Wrote {OUTPUT}: {len(jobs)} jobs for type={JOB_TYPE}")
+    upsert_readme(render_readme_block(jobs, meta, today))
     return 0
 
 

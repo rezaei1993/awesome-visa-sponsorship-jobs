@@ -1,23 +1,29 @@
 # Daily job automation
 
-This repo can auto-refresh [`DAILY_JOBS.md`](DAILY_JOBS.md) from Jaabz every day.
+This repo refreshes [`DAILY_JOBS.md`](DAILY_JOBS.md) (and the matching README section) from Jaabz once a day.
 
-## Enable GitHub Actions (one-time)
+## Repository secrets (required)
 
-The workflow file is ready at `.github/workflows/daily-jaabz-jobs.yml` but pushing workflow files needs the `workflow` OAuth scope.
+In **Settings → Secrets and variables → Actions**, set:
 
-Run locally:
+| Secret | Purpose |
+| --- | --- |
+| `JAABZ_CATALOG_URL` | Private catalog endpoint URL (from Jaabz) |
+| `JAABZ_CATALOG_KEY` | Access token for that endpoint |
+
+Do not commit these values. The fetch script reads them only from the environment.
+
+## Run
+
+**Actions → Daily Jaabz jobs → Run workflow**
+
+Schedule: every day **07:00 UTC**.
+
+## Local dry-run
 
 ```bash
-gh auth refresh -h github.com -s repo,workflow
-cd /path/to/awesome-visa-sponsorship-jobs
-git add .github/workflows/daily-jaabz-jobs.yml
-git commit -m "Add daily Jaabz jobs workflow"
-git push
+export JAABZ_CATALOG_URL='…'
+export JAABZ_CATALOG_KEY='…'
+export JOB_TYPE=visa
+python3 scripts/fetch_jaabz_jobs.py
 ```
-
-Or paste the YAML into GitHub → Actions → New workflow.
-
-Then: **Actions → Daily Jaabz jobs → Run workflow**.
-
-Schedule: every day 07:00 UTC.

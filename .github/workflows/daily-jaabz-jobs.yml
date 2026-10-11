@@ -22,8 +22,10 @@ jobs:
 
       - name: Fetch jobs
         env:
+          JAABZ_CATALOG_URL: ${{ secrets.JAABZ_CATALOG_URL }}
+          JAABZ_CATALOG_KEY: ${{ secrets.JAABZ_CATALOG_KEY }}
           JOB_TYPE: visa
-          JOB_LIMIT: "15"
+          JOB_LIMIT: "20"
         run: python3 scripts/fetch_jaabz_jobs.py
 
       - name: Commit if changed
