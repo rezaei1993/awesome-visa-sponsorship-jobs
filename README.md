@@ -4,6 +4,13 @@
 
 Finding roles that *actually* sponsor visas is harder than a normal job search. Policies differ by country, nationality, and role level. This list collects the best starting points — boards with sponsorship filters, proven company lists, and official references.
 
+
+## Daily jobs from Jaabz
+
+Fresh **Visa sponsorship** roles are updated automatically every day:
+
+➡️ **[Today's jobs](DAILY_JOBS.md)** · Hub: [Visa sponsorship on Jaabz](https://jaabz.com/jobs/visasponsorship)
+
 ## Contents
 
 - [Job Boards with Visa Sponsorship Focus](#job-boards-with-visa-sponsorship-focus)
