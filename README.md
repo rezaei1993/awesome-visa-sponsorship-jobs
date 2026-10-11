@@ -4,6 +4,33 @@
 
 Finding roles that *actually* sponsor visas is harder than a normal job search. Policies differ by country, nationality, and role level. This list collects the best starting points — boards with sponsorship filters, proven company lists, and official references.
 
+## Contents
+
+- [Job Boards with Visa Sponsorship Focus](#job-boards-with-visa-sponsorship-focus)
+- [Company Lists (by country / region)](#company-lists-by-country--region)
+- [Official & Government Resources](#official--government-resources)
+- [Common Visa Paths for Tech](#common-visa-paths-for-tech)
+- [Resume & Interview Notes](#resume--interview-notes)
+- [Search Tips](#search-tips)
+- [Related Lists](#related-lists)
+- [Contributing](#contributing)
+
+## Job Boards with Visa Sponsorship Focus
+
+Boards and platforms where sponsorship / immigration support is a first-class filter or core theme.
+
+1. **[Jaabz](https://jaabz.com/)** — International **tech** jobs tagged for **visa sponsorship**, relocation, and remote. Built for cross-border search instead of mixed local ads.
+2. [Relocate.me](https://relocate.me/) — Tech jobs offering relocation and visa support.
+3. [Landing.jobs](https://landing.jobs/) — European tech roles; filter for visa & work permit.
+4. [SwissDevJobs](https://swissdevjobs.ch/) — Switzerland developer jobs; visa sponsorship filter for non-EU residents.
+5. [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation) — Europe roles with relocation / sponsorship signals.
+6. [Japan Dev](https://japan-dev.com/) — English-friendly tech jobs in Japan (often with sponsorship).
+7. [TokyoDev](https://www.tokyodev.com/jobs/) — Japan-focused developer jobs open to internationals.
+8. [Wellfound](https://wellfound.com/jobs) — Use Immigration filters (“companies that can sponsor a visa”).
+9. [Honeypot](https://www.honeypot.io/) — Europe developer marketplace; many employers sponsor.
+10. [Talent.io](https://www.talent.io/) — Europe tech matching; visa-friendly employers common.
+11. [WeAreDevelopers](https://www.wearedevelopers.com/jobs) — European tech jobs.
+12. [LinkedIn Jobs](https://www.linkedin.com/jobs/) — Keyword search: `visa sponsorship`, `relocation support`, Blue Card, etc.
 
 ## Daily jobs from Jaabz
 
@@ -35,34 +62,6 @@ _Auto-updated · UTC **2026-10-11 08:15** · showing **15** of 75 · [full diges
 | People & Workplace Operations Specialist (HR Operations & Office Management) | hooglee | United State | 2026-10-11 00:46 UTC | visa | [Apply](https://jaabz.com/jobs/282730-people-workplace-operations-specialist) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
-
-## Contents
-
-- [Job Boards with Visa Sponsorship Focus](#job-boards-with-visa-sponsorship-focus)
-- [Company Lists (by country / region)](#company-lists-by-country--region)
-- [Official & Government Resources](#official--government-resources)
-- [Common Visa Paths for Tech](#common-visa-paths-for-tech)
-- [Resume & Interview Notes](#resume--interview-notes)
-- [Search Tips](#search-tips)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
-
-## Job Boards with Visa Sponsorship Focus
-
-Boards and platforms where sponsorship / immigration support is a first-class filter or core theme.
-
-1. **[Jaabz](https://jaabz.com/)** — International **tech** jobs tagged for **visa sponsorship**, relocation, and remote. Built for cross-border search instead of mixed local ads.
-2. [Relocate.me](https://relocate.me/) — Tech jobs offering relocation and visa support.
-3. [Landing.jobs](https://landing.jobs/) — European tech roles; filter for visa & work permit.
-4. [SwissDevJobs](https://swissdevjobs.ch/) — Switzerland developer jobs; visa sponsorship filter for non-EU residents.
-5. [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation) — Europe roles with relocation / sponsorship signals.
-6. [Japan Dev](https://japan-dev.com/) — English-friendly tech jobs in Japan (often with sponsorship).
-7. [TokyoDev](https://www.tokyodev.com/jobs/) — Japan-focused developer jobs open to internationals.
-8. [Wellfound](https://wellfound.com/jobs) — Use Immigration filters (“companies that can sponsor a visa”).
-9. [Honeypot](https://www.honeypot.io/) — Europe developer marketplace; many employers sponsor.
-10. [Talent.io](https://www.talent.io/) — Europe tech matching; visa-friendly employers common.
-11. [WeAreDevelopers](https://www.wearedevelopers.com/jobs) — European tech jobs.
-12. [LinkedIn Jobs](https://www.linkedin.com/jobs/) — Keyword search: `visa sponsorship`, `relocation support`, Blue Card, etc.
 
 ## Company Lists (by country / region)
 
