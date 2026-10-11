@@ -11,6 +11,21 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 
 ➡️ **[Today's jobs](DAILY_JOBS.md)** · Hub: [Visa sponsorship on Jaabz](https://jaabz.com/jobs/visasponsorship)
 
+<!-- JAABZ-DAILY-JOBS:START -->
+## Today's Visa sponsorship jobs from Jaabz
+
+_Auto-updated · UTC **2026-10-11** · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+
+| Role | Company | Country | Tags | Link |
+| --- | --- | --- | --- | --- |
+| Senior Product Owner (AI Enabled) | b one consulting | INDONESIA | visa | [Apply](https://jaabz.com/jobs/282800-ai-ready-product-manager) |
+| Senior Director of Human Resources (HR) - Cairo, Egypt | imploy egypt | EGYPT | visa, relocation | [Apply](https://jaabz.com/jobs/274002-human-resources-manager) |
+| Systems Administrator (Manager / Advisor) | Imploy | SAUDI ARABIA | visa, relocation | [Apply](https://jaabz.com/jobs/271071-sap-system-administrator) |
+| Data Engineer (Machine Learning) | wayve | GERMANY | visa, relocation | [Apply](https://jaabz.com/jobs/282791-data-engineer-app-sw) |
+| Data Science Manager, Applied Methods (Autonomy) | wayve | UNITED KINGDOM | visa, relocation | [Apply](https://jaabz.com/jobs/282792-data-science-manager) |
+
+<!-- JAABZ-DAILY-JOBS:END -->
+
 ## Contents
 
 - [Job Boards with Visa Sponsorship Focus](#job-boards-with-visa-sponsorship-focus)
