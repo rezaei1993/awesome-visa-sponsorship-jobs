@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-11 08:15** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-12 16:35** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Backend Engineer, AI & Distributed Systems | flowgen labs | United State | 2026-10-11 08:10 UTC | visa | [Apply](https://jaabz.com/jobs/274273-staff-software-engineer) |
-| Senior Product Owner (AI Enabled) | b one consulting | INDONESIA | 2026-10-11 07:36 UTC | visa | [Apply](https://jaabz.com/jobs/282800-ai-ready-product-manager) |
-| Senior Director of Human Resources (HR) - Cairo, Egypt | imploy egypt | EGYPT | 2026-10-11 07:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/274002-human-resources-manager) |
-| Systems Administrator (Manager / Advisor) | Imploy | SAUDI ARABIA | 2026-10-11 07:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/271071-sap-system-administrator) |
-| Data Engineer (Machine Learning) | wayve | GERMANY | 2026-10-11 06:19 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/282791-data-engineer-app-sw) |
-| Data Science Manager, Applied Methods (Autonomy) | wayve | UNITED KINGDOM | 2026-10-11 06:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/282792-data-science-manager) |
-| Talent Acquisition Specialist - Fleet Operations (Fixed-Term Contract) | wayve | UNITED KINGDOM | 2026-10-11 06:06 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/282786-associate-talent-partner) |
-| Senior Application Software Engineer (Autonomous Driving) | wayve | United State | 2026-10-11 06:05 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/282787-application-software-engineer-embedded-software-c) |
-| Senior AI Engineer – Production LLM Systems | allysai / ai-native enterprise | UNITED ARAB EMIRATES | 2026-10-11 06:02 UTC | visa | [Apply](https://jaabz.com/jobs/282788-senior-ai-engineer) |
-| IT Support Specialist | homeprotect home insurance | UNITED KINGDOM | 2026-10-11 04:53 UTC | visa | [Apply](https://jaabz.com/jobs/282782-workplace-technology-engineer) |
-| Senior Supplier Quality Engineer (Battery & Powertrain) | archer | United State | 2026-10-11 04:20 UTC | visa | [Apply](https://jaabz.com/jobs/282780-sr-supplier-quality-engineer) |
-| Cybersecurity Consultant (Assessments / Due Diligence / Advisory) | charles river associates | United State | 2026-10-11 03:46 UTC | visa | [Apply](https://jaabz.com/jobs/282766-senior-associatecybersecurity-consultant-due-diligence-advisory-forensic-services-practice) |
-| Senior AI Researcher (LLMs) | limbic | UNITED KINGDOM | 2026-10-11 02:15 UTC | visa | [Apply](https://jaabz.com/jobs/282750-senior-ai-researcher) |
-| Senior Embedded Power Engineer | CyberCoders | United State | 2026-10-11 01:28 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
-| People & Workplace Operations Specialist (HR Operations & Office Management) | hooglee | United State | 2026-10-11 00:46 UTC | visa | [Apply](https://jaabz.com/jobs/282730-people-workplace-operations-specialist) |
+| Strategic Business Partner (HR) – Fixed-Term (18 Months) | university of the west of england | UNITED KINGDOM | 2026-10-12 16:31 UTC | visa | [Apply](https://jaabz.com/jobs/283356-strategic-business-partner) |
+| Backend Engineer | Goliath Partners | SAN FRANCISCO BAY AREA | 2026-10-12 15:44 UTC | visa | [Apply](https://jaabz.com/jobs/283333-backend-engineer) |
+| Senior AI Engineer (Generative AI & Cloud-Native Solutions) | Wypoon Technologies | NETHERLANDS | 2026-10-12 15:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283335-ai-engineer-a-azure-generative-ai-relocation-provided) |
+| Lead / Staff QA Engineer | talentmate | UNITED ARAB EMIRATES | 2026-10-12 15:33 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283324-staff-quality-assurance-engineer) |
+| Entry-Level Business Analyst | ATC | United State | 2026-10-12 15:21 UTC | visa | [Apply](https://jaabz.com/jobs/159383-business-analyst) |
+| Entry-Level Data Analyst | ATC | United State | 2026-10-12 15:21 UTC | visa | [Apply](https://jaabz.com/jobs/159481-data-analyst) |
+| Senior Backend Platform Engineer | ronaj recruitment | United State | 2026-10-12 14:54 UTC | visa | [Apply](https://jaabz.com/jobs/283311-senior-software-engineer-go-kubernetes-cloud-platforms) |
+| Senior Java Developer | KWAN | PORTUGAL | 2026-10-12 14:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283312-back-end-developer) |
+| Backend Engineer (Rust) | Signify Technology | FRANCE | 2026-10-12 14:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/250411-backend-rust-engineer) |
+| Founding Principal Engineer | employvision inc. | United State | 2026-10-12 14:40 UTC | visa | [Apply](https://jaabz.com/jobs/283299-senior-software-engineer) |
+| Senior/Staff Android/Kotlin Software Engineer | Recruiting from Scratch | United State | 2026-10-12 14:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/274945-senior-android-engineer) |
+| Senior Data Analyst (Report Developer) | social security scotland | UNITED KINGDOM | 2026-10-12 13:54 UTC | visa | [Apply](https://jaabz.com/jobs/283284-senior-data-analyst-report-developer) |
+| Associate Security Architect | social security scotland | UNITED KINGDOM | 2026-10-12 13:52 UTC | visa | [Apply](https://jaabz.com/jobs/283285-associate-security-architect) |
+| Junior Cybersecurity Analyst - Fully Remote | hrcap, inc. | United State | 2026-10-12 13:50 UTC | remote, visa | [Apply](https://jaabz.com/jobs/251861-cyber-security-analyst) |
+| Senior Embedded Power Engineer | CyberCoders | United State | 2026-10-12 13:50 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
