@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-14 12:44** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-15 12:31** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Palantir Foundry Engineer (Professional Services) - Dubai, UAE | ovi | UNITED ARAB EMIRATES | 2026-10-14 11:20 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284396-palantir-foundry-engineer-professional-services-full-time) |
-| Senior Test Automation Engineer | shiftbase | NETHERLANDS | 2026-10-14 11:18 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/247735-qa-engineer) |
-| C++ Engineer - Ultra Low-Latency HFT Infrastructure | Bonhill Partners | UNITED KINGDOM | 2026-10-14 10:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284367-c-developer-hft) |
-| Lead Data Analyst, Mobile Gaming (Pocket Champs) | Madbox | GREATER PARIS METROPOLITAN REGION | 2026-10-14 10:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284369-lead-data-analyst) |
-| Senior Java Developer | KWAN | LISBON METROPOLITAN AREA | 2026-10-14 10:11 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284374-senior-java-developer) |
-| UI Frontend Engineer Tech Lead | KWAN | PORTUGAL | 2026-10-14 09:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284378-ui-frontend-engineer-tech-lead) |
-| Senior Backend Software Engineer (Fintech, Distributed Systems) | talenthop | United State | 2026-10-14 09:57 UTC | remote, visa | [Apply](https://jaabz.com/jobs/274705-senior-software-engineer) |
-| Senior Full Stack Engineer, Product (React, TypeScript, Go) | remotehunter | United State | 2026-10-14 09:56 UTC | visa | [Apply](https://jaabz.com/jobs/283895-senior-full-stack-engineer-product-react-typescript-go) |
-| Backend-Leaning Full-Stack Engineer (AI Infrastructure) – Production Systems & Enterprise Integrations | cgs | SAN FRANCISCO BAY AREA | 2026-10-14 08:51 UTC | visa | [Apply](https://jaabz.com/jobs/284347-full-stack-engineer-backend-leaning-a-ai-infrastructure) |
-| Chief Technology Officer (CTO) – Research and Development | roshell | UNITED ARAB EMIRATES | 2026-10-14 08:44 UTC | visa | [Apply](https://jaabz.com/jobs/284354-chief-technology-officer) |
-| Staff Software Engineer - Marketplace | laravel denmark | DENMARK | 2026-10-14 08:43 UTC | visa | [Apply](https://jaabz.com/jobs/284357-staff-software-engineer-marketplace) |
-| Founding Solutions Architect, AI Infrastructure & Benchmarking | Prime Intellect | United State | 2026-10-14 08:42 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/284359-founding-solutions-architect) |
-| Digital Marketing Specialist (B2B) | bodor laser usa | United State | 2026-10-14 08:38 UTC | visa | [Apply](https://jaabz.com/jobs/284356-digital-marketing-specialist-bilingual-in-mandarin) |
-| Senior Software Engineer - Connect | laravel denmark | DENMARK | 2026-10-14 08:38 UTC | visa | [Apply](https://jaabz.com/jobs/281978-senior-software-engineer-connect) |
-| Senior Forward Deployed Engineer – Agentic AI & AI Lead Engineering (Healthcare, Enterprise, Cloud) | Bestinfo Systems LLC | SAN FRANCISCO BAY AREA | 2026-10-14 08:37 UTC | visa | [Apply](https://jaabz.com/jobs/284313-ai-prompt-engineer-agentic-ai-engineer) |
+| Full Stack Engineer – Satellite Technology (Mid‑Senior Level) | Switch Tech Talent | FINLAND | 2026-10-15 12:18 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285064-full-stack-engineer-product-spacetech) |
+| Senior Backend Software Engineer (Satellite Analytics) – Cloud-Native Python/React | Switch Tech Talent | FINLAND | 2026-10-15 12:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285062-senior-software-engineer-product-spacetech) |
+| Senior People Partner | n8n | PORTUGAL | 2026-10-15 10:59 UTC | remote, visa | [Apply](https://jaabz.com/jobs/284499-senior-people-partner-remote-europe) |
+| Agentic AI Engineer â Healthcare AI | Deloitte | United State | 2026-10-15 10:43 UTC | visa | [Apply](https://jaabz.com/jobs/270939-agentic-ai-engineer-a-healthcare-ai) |
+| System Administrator - Red Hat Linux | terakoya academia inc. | NEPAL | 2026-10-15 10:30 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285023-system-administrator-redhat-linux) |
+| Senior Python Developer (Quantitative Trading) | Bonhill Partners | HONG KONG SAR | 2026-10-15 10:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285019-python-developer) |
+| Head of Go-to-Market | flexion | SWITZERLAND | 2026-10-15 10:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285014-head-of-go-to-market) |
+| Data Engineer | BeaconFire Inc. | United State | 2026-10-15 10:12 UTC | visa | [Apply](https://jaabz.com/jobs/285016-data-engineer) |
+| SEO & Digital Marketing Specialist | afc holidays | UNITED ARAB EMIRATES | 2026-10-15 09:21 UTC | visa | [Apply](https://jaabz.com/jobs/284989-seo-digital-marketing-specialist) |
+| Senior Embedded Power Engineer | CyberCoders | United State | 2026-10-15 08:58 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
+| Senior DevSecOps & Cloud Security Consultant | NowWiN International | OMAN | 2026-10-15 08:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284972-devsecops-cloud-security-consultant) |
+| Senior Data Scientist (Blockchain & Financial Data Analytics) - Team Lead | recruitblock | UNITED KINGDOM | 2026-10-15 08:31 UTC | visa | [Apply](https://jaabz.com/jobs/284962-senior-data-analyst) |
+| HR Manager | randolph hill nursing homes group ltd | UNITED KINGDOM | 2026-10-15 08:27 UTC | visa | [Apply](https://jaabz.com/jobs/284966-human-resources-manager) |
+| Head of People Operations | gray swan | United State | 2026-10-15 07:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284948-head-of-people) |
+| Senior C++ Software Architect - 3D Medical Imaging (Hybrid) | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-10-15 07:43 UTC | visa | [Apply](https://jaabz.com/jobs/284949-c-software-architect-3d-medical-imaging) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
