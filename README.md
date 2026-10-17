@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-16 12:10** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-17 11:29** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Python Developer (Django/Flask) – Box.com Integration & DevOps | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-10-16 11:43 UTC | visa | [Apply](https://jaabz.com/jobs/285656-python-developer-a-development-tooling-sds) |
-| Senior SAS Administrator (Enterprise SAS 9.4 Platform) | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-10-16 11:42 UTC | visa | [Apply](https://jaabz.com/jobs/285658-senior-sas-administrator-it-run-sas) |
-| Cyber Threat Intelligence Analyst | jisc | UNITED KINGDOM | 2026-10-16 11:39 UTC | visa | [Apply](https://jaabz.com/jobs/285663-cyber-threat-intelligence-analyst) |
-| Principal Product Manager, AI Infrastructure (RAG & Agentic AI) | magno it recruitment | UNITED KINGDOM | 2026-10-16 11:30 UTC | visa | [Apply](https://jaabz.com/jobs/285659-principal-product-manager) |
-| Senior Data Engineer, Foundations Platform | reflection | UNITED KINGDOM | 2026-10-16 11:29 UTC | visa | [Apply](https://jaabz.com/jobs/252412-member-of-technical-staff-data-platform) |
-| Engineering Lead, Applications | Acceler8 Talent | SAN FRANCISCO BAY AREA | 2026-10-16 11:29 UTC | visa | [Apply](https://jaabz.com/jobs/285657-member-of-technical-staff-engineering-lead-applications) |
-| Senior C++ / Rust Developer (High-Load Systems) | metaquotes ltd. | CYPRUS | 2026-10-16 11:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285645-senior-c-rust-developer-for-high-load-systems) |
-| Java Full Stack Developer-Software Engineer III | Deloitte | United State | 2026-10-16 11:01 UTC | visa | [Apply](https://jaabz.com/jobs/270374-java-full-stack-developer-software-engineer-iii) |
-| Graduate Quantitative Researcher, PhD (2027 Start) | Optiver | United State | 2026-10-16 10:35 UTC | visa | [Apply](https://jaabz.com/jobs/270647-graduate-quantitative-researcher-phd-2027-start) |
-| Forward Deployed Engineer - Databricks - Forensic Discovery & Financial Crime | Deloitte | United State | 2026-10-16 10:35 UTC | visa | [Apply](https://jaabz.com/jobs/270590-forward-deployed-engineer-databricks-forensic-discovery-financial-crime) |
-| Senior SEO / PPC Manager | get volved | UNITED ARAB EMIRATES | 2026-10-16 09:43 UTC | visa | [Apply](https://jaabz.com/jobs/285605-senior-ppc-seo-ai-search-manager) |
-| Senior Conversion Rate Optimization (CRO) Manager | Puffy | APAC | 2026-10-16 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285535-senior-cro-manager-on-site-in-dubai) |
-| Senior Azure Cloud Security Engineer | k2 | UNITED ARAB EMIRATES | 2026-10-16 09:15 UTC | visa | [Apply](https://jaabz.com/jobs/285591-senior-azure-cloud-engineer) |
-| Data Analyst, Glasgow Safe Haven (Fixed-term) | NHS Ayrshire & Arran | CANADA | 2026-10-16 08:56 UTC | remote, visa | [Apply](https://jaabz.com/jobs/285583-data-analyst-safe-haven-research-and-innovation) |
-| Senior Backend Software Engineer (Fintech, Distributed Systems) | talenthop | United State | 2026-10-16 08:49 UTC | remote, visa | [Apply](https://jaabz.com/jobs/274705-senior-software-engineer) |
+| Senior Security Engineer & Compliance Lead | sofar ocean | SAN FRANCISCO BAY AREA | 2026-10-17 10:12 UTC | remote, visa | [Apply](https://jaabz.com/jobs/286149-security-it-engineer) |
+| Agentic AI Engineer â Healthcare AI | Deloitte | United States | 2026-10-17 10:10 UTC | visa | [Apply](https://jaabz.com/jobs/270939-agentic-ai-engineer-a-healthcare-ai) |
+| Senior HR Advisor (Oil & Gas) – Dubai, UAE | progressive | UNITED ARAB EMIRATES | 2026-10-17 10:10 UTC | visa | [Apply](https://jaabz.com/jobs/286150-hr-advisor) |
+| Forward Deployed Engineer | n8n | UNITED KINGDOM | 2026-10-17 10:09 UTC | remote, visa | [Apply](https://jaabz.com/jobs/261327-forward-deployed-engineer-emea) |
+| Senior SAP Commerce Cloud (CCV2) Technical Consultant (Hybrid) | creed staffing | United State | 2026-10-17 09:45 UTC | visa | [Apply](https://jaabz.com/jobs/286138-sap-technical-consultant) |
+| Platform Engineer (Internal Developer Platform) | hennge | JAPAN | 2026-10-17 08:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/278021-platform-engineer-infrastructurekubernetes-aws-hennge-platform-team) |
+| Senior Systems Design Engineer (Autonomous Systems & Uncrewed Vehicles) | syos aerospace | NEW ZEALAND | 2026-10-17 07:31 UTC | visa | [Apply](https://jaabz.com/jobs/286114-systems-engineer) |
+| Senior Conversion Rate Optimization (CRO) Manager | Puffy | APAC | 2026-10-17 06:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285535-senior-cro-manager-on-site-in-dubai) |
+| Senior Security Engineer & Founding Security Lead (AI Agents) | artificial intelligence underwriting company (aiuc) | United State | 2026-10-17 05:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286102-founding-security-engineer) |
+| AI Image Specialist | Puffy | PORTUGAL | 2026-10-17 05:50 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/273728-ai-image-designer) |
+| IT Support Specialist (Mac & Enterprise Systems) | gray swan | United State | 2026-10-17 04:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286088-it-operations-specialist) |
+| Operations Supervisor, Autonomous Vehicle Testing | kodiak | United States | 2026-10-17 02:56 UTC | visa | [Apply](https://jaabz.com/jobs/285854-operations-supervisor-testing) |
+| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-10-17 02:03 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
+| Senior Embedded Power Engineer | CyberCoders | United States | 2026-10-17 02:03 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
+| ASIC Engineering Lead (Physical Design/STA) – Senior Technical Leadership | CyberCoders | United State | 2026-10-17 01:38 UTC | visa | [Apply](https://jaabz.com/jobs/286062-physical-design-lead-principal-or-master-level-up-to-800k) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
