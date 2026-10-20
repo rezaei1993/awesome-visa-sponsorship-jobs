@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-19 14:27** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-20 12:36** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Forward Deployed Full-Stack & AI Engineer (Enterprise Software) | kairos ai talent | UNITED KINGDOM | 2026-10-19 14:21 UTC | visa | [Apply](https://jaabz.com/jobs/287139-artificial-intelligence-engineer) |
-| Lead Machine Learning Scientist (Monzo Co-pilot Search Team) | Women in Data® | UNITED KINGDOM | 2026-10-19 14:12 UTC | remote, visa | [Apply](https://jaabz.com/jobs/287148-lead-machine-learning-scientist-search) |
-| Startup Program Manager | Tahaluf | SAUDI ARABIA | 2026-10-19 14:12 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283634-startup-program-manager) |
-| Senior Platform & Infrastructure Engineer (AI Training Orchestration) | Prime Intellect | United State | 2026-10-19 14:12 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/286006-member-of-technical-staff-training-platform) |
-| Founding Product Engineer (Design-Focused) | madinest | United States | 2026-10-19 14:11 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285264-founding-product-engineer) |
-| Senior AI Engineer, Real Estate Intelligence (LLM & Agent Workflows) | property dynamix | UNITED ARAB EMIRATES | 2026-10-19 13:56 UTC | visa | [Apply](https://jaabz.com/jobs/287126-ai-engineer-real-estate-intelligence) |
-| Senior WAN & Perimeter Security Architect (Hybrid) | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-10-19 13:54 UTC | visa | [Apply](https://jaabz.com/jobs/287132-wan-perimeter-security-architect) |
-| ASIC Engineering Lead (Physical Design/STA) – Senior Technical Leadership | CyberCoders | United State | 2026-10-19 13:49 UTC | visa | [Apply](https://jaabz.com/jobs/286062-physical-design-lead-principal-or-master-level-up-to-800k) |
-| Senior Embedded Systems Engineer (AI-Driven Edge Computing) | Enterprise Recruitment Ltd | UNITED KINGDOM | 2026-10-19 13:32 UTC | visa | [Apply](https://jaabz.com/jobs/287096-senior-embedded-electronic-systems-engineer) |
-| Senior Power BI Developer (On-Site, Netherlands) | it solutions worldwide bv | NETHERLANDS | 2026-10-19 13:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287103-power-bi-developer) |
-| Senior Data Engineer | BeaconFire Inc. | United State | 2026-10-19 13:28 UTC | visa | [Apply](https://jaabz.com/jobs/287105-data-engineer) |
-| Senior Backend Engineer (AI-Powered Enterprise Automation Platform) | Goliath Partners | SAN FRANCISCO BAY AREA | 2026-10-19 13:26 UTC | visa | [Apply](https://jaabz.com/jobs/287110-backend-engineer) |
-| Principal AI Engineer | Bluebird | UNITED KINGDOM | 2026-10-19 13:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/256534-principal-ai-engineer) |
-| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-10-19 13:24 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
-| Senior Identity and Access Management (IAM) Engineer (SailPoint IdentityIQ Specialist) | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-10-19 13:23 UTC | visa | [Apply](https://jaabz.com/jobs/287093-sailpoint-identityiq-developer-iam-engineer) |
+| Senior Motion Graphic Designer (Full-time, Remote-First) | writerity, inc. | NORTH MACEDONIA | 2026-10-20 12:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287827-motion-graphic-designer) |
+| Senior C++ Performance Engineer (AgileCore Runtime Core) | agile robots se | GREATER MUNICH METROPOLITAN AREA | 2026-10-20 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287821-senior-c-performance-engineer-all-genders) |
+| Senior Full-Stack Geospatial Data Engineer (AI Driving Platforms) | wayve | UNITED KINGDOM | 2026-10-20 12:11 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287823-software-engineer-map-route) |
+| Senior Full Stack Developer | Doghouse Recruitment | NETHERLANDS | 2026-10-20 12:10 UTC | visa | [Apply](https://jaabz.com/jobs/267871-senior-software-engineer) |
+| Senior Full Stack Developer (Node.js/TypeScript) - Backend Focus / E-Learning SaaS / Utrecht, Netherlands | Doghouse Recruitment | NETHERLANDS | 2026-10-20 11:45 UTC | visa | [Apply](https://jaabz.com/jobs/287820-senior-software-engineer) |
+| Senior Backend Software Engineer (Node.js, TypeScript) | Doghouse Recruitment | NETHERLANDS | 2026-10-20 11:44 UTC | visa | [Apply](https://jaabz.com/jobs/232682-software-engineer) |
+| Senior Full Stack Engineer (Node.js / TypeScript / React.js) - E-Learning SaaS | Doghouse Recruitment | NETHERLANDS | 2026-10-20 11:44 UTC | visa | [Apply](https://jaabz.com/jobs/276962-full-stack-engineer) |
+| Senior VMware Infrastructure Engineer (Cloud Hosting Solutions) | synmatch ai | BELGIUM | 2026-10-20 11:25 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/274093-vmware-infrastructure-engineer) |
+| Senior Full Stack Developer (.NET, Angular/React, Azure) | accelerec ltd. | PAKISTAN | 2026-10-20 11:24 UTC | remote, visa | [Apply](https://jaabz.com/jobs/287809-senior-full-stack-developer) |
+| AWS Java Developer (Hybrid - Kaufering, Munich) | UST | SPAIN | 2026-10-20 11:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/82730-aws-java-developer-hybrid-kaufering-munich) |
+| Senior Embedded Power Engineer | CyberCoders | United States | 2026-10-20 11:20 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
+| Oracle EBS HRMS Techno-Functional Consultant (R12.2.X) - Doha, Qatar | nebras energy | QATAR | 2026-10-20 11:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287799-application-developer) |
+| Senior Avionics Systems Engineer (Flight Computer Systems) – Spacecraft Development | The Exploration Company | GERMANY | 2026-10-20 10:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287795-avionics-system-engineer-flight-computer-system) |
+| Senior DevOps Engineer (CI/CD, Infrastructure Automation & DevOps Adoption) | Trust In SODA | NETHERLANDS | 2026-10-20 10:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287786-devops-engineer) |
+| QA Engineer | playtika | POLAND | 2026-10-20 10:30 UTC | visa | [Apply](https://jaabz.com/jobs/270080-qa-engineer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
