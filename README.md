@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-20 12:36** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-21 12:48** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Motion Graphic Designer (Full-time, Remote-First) | writerity, inc. | NORTH MACEDONIA | 2026-10-20 12:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287827-motion-graphic-designer) |
-| Senior C++ Performance Engineer (AgileCore Runtime Core) | agile robots se | GREATER MUNICH METROPOLITAN AREA | 2026-10-20 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287821-senior-c-performance-engineer-all-genders) |
-| Senior Full-Stack Geospatial Data Engineer (AI Driving Platforms) | wayve | UNITED KINGDOM | 2026-10-20 12:11 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287823-software-engineer-map-route) |
-| Senior Full Stack Developer | Doghouse Recruitment | NETHERLANDS | 2026-10-20 12:10 UTC | visa | [Apply](https://jaabz.com/jobs/267871-senior-software-engineer) |
-| Senior Full Stack Developer (Node.js/TypeScript) - Backend Focus / E-Learning SaaS / Utrecht, Netherlands | Doghouse Recruitment | NETHERLANDS | 2026-10-20 11:45 UTC | visa | [Apply](https://jaabz.com/jobs/287820-senior-software-engineer) |
-| Senior Backend Software Engineer (Node.js, TypeScript) | Doghouse Recruitment | NETHERLANDS | 2026-10-20 11:44 UTC | visa | [Apply](https://jaabz.com/jobs/232682-software-engineer) |
-| Senior Full Stack Engineer (Node.js / TypeScript / React.js) - E-Learning SaaS | Doghouse Recruitment | NETHERLANDS | 2026-10-20 11:44 UTC | visa | [Apply](https://jaabz.com/jobs/276962-full-stack-engineer) |
-| Senior VMware Infrastructure Engineer (Cloud Hosting Solutions) | synmatch ai | BELGIUM | 2026-10-20 11:25 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/274093-vmware-infrastructure-engineer) |
-| Senior Full Stack Developer (.NET, Angular/React, Azure) | accelerec ltd. | PAKISTAN | 2026-10-20 11:24 UTC | remote, visa | [Apply](https://jaabz.com/jobs/287809-senior-full-stack-developer) |
-| AWS Java Developer (Hybrid - Kaufering, Munich) | UST | SPAIN | 2026-10-20 11:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/82730-aws-java-developer-hybrid-kaufering-munich) |
-| Senior Embedded Power Engineer | CyberCoders | United States | 2026-10-20 11:20 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
-| Oracle EBS HRMS Techno-Functional Consultant (R12.2.X) - Doha, Qatar | nebras energy | QATAR | 2026-10-20 11:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287799-application-developer) |
-| Senior Avionics Systems Engineer (Flight Computer Systems) – Spacecraft Development | The Exploration Company | GERMANY | 2026-10-20 10:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287795-avionics-system-engineer-flight-computer-system) |
-| Senior DevOps Engineer (CI/CD, Infrastructure Automation & DevOps Adoption) | Trust In SODA | NETHERLANDS | 2026-10-20 10:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287786-devops-engineer) |
-| QA Engineer | playtika | POLAND | 2026-10-20 10:30 UTC | visa | [Apply](https://jaabz.com/jobs/270080-qa-engineer) |
+| Senior Data Engineer (GCP, dbt, Dimensional Modeling) - Building Analytics Platform | avantia | UNITED KINGDOM | 2026-10-21 12:47 UTC | remote, visa | [Apply](https://jaabz.com/jobs/288080-gcp-data-engineer) |
+| Associate Data Scientist - Operations Research | wheely | CYPRUS | 2026-10-21 12:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288575-associate-data-scientist-operations-research) |
+| Mid/Senior Backend Engineer (Mapping & Spatial Intelligence) - Go | wheely | UNITED KINGDOM | 2026-10-21 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/281818-backend-engineer-midsenior-maps) |
+| Product Manager | wheely | CYPRUS | 2026-10-21 11:58 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288551-product-manager-ux) |
+| Product Manager | wheely | CYPRUS | 2026-10-21 11:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288552-product-manager-technical) |
+| Infrastructure Engineer | wheely | CYPRUS | 2026-10-21 11:55 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/225259-site-reliability-engineer) |
+| Senior Frontend Engineer | italenters | SPAIN | 2026-10-21 11:49 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288531-senior-frontend-engineer) |
+| Senior Data Lead | plasma | UNITED KINGDOM | 2026-10-21 11:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288535-data-engineering-lead) |
+| Product Marketing Manager | ivo | United State | 2026-10-21 11:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288521-product-marketing-manager) |
+| Cybersecurity DLP Engineer | gft technologies españa | SPAIN | 2026-10-21 11:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288525-cybersecurity-dlp-engineer-devops) |
+| Cyber and Information Security Team Leader | NHS Scotland | UNITED KINGDOM | 2026-10-21 11:30 UTC | visa | [Apply](https://jaabz.com/jobs/288527-cyber-information-security-team-leader) |
+| Senior Game UI/UX Designer (Mobile, Unity) | hyperhug | CYPRUS | 2026-10-21 11:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/258456-senior-uiux-designer) |
+| Senior Full-Stack Engineer (React/React Native) – Product & Client-Side Development | plasma | UNITED KINGDOM | 2026-10-21 11:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/267321-mid-level-to-senior-software-engineer) |
+| Senior Founding Engineer - Agentic AI & Growth Infrastructure | Initi8 Recruitment | NEW YORK CITY METROPOLITAN AREA | 2026-10-21 11:19 UTC | visa | [Apply](https://jaabz.com/jobs/288501-senior-founding-engineer-ai-start-up-nyc) |
+| Tech Lead - Fenergo & Client Lifecycle Management (KYC) | gft technologies españa | SPAIN | 2026-10-21 11:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288506-tech-lead-fenergo-clm-kyc) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
