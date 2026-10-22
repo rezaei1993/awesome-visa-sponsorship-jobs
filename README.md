@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-21 12:48** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-22 12:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Data Engineer (GCP, dbt, Dimensional Modeling) - Building Analytics Platform | avantia | UNITED KINGDOM | 2026-10-21 12:47 UTC | remote, visa | [Apply](https://jaabz.com/jobs/288080-gcp-data-engineer) |
-| Associate Data Scientist - Operations Research | wheely | CYPRUS | 2026-10-21 12:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288575-associate-data-scientist-operations-research) |
-| Mid/Senior Backend Engineer (Mapping & Spatial Intelligence) - Go | wheely | UNITED KINGDOM | 2026-10-21 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/281818-backend-engineer-midsenior-maps) |
-| Product Manager | wheely | CYPRUS | 2026-10-21 11:58 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288551-product-manager-ux) |
-| Product Manager | wheely | CYPRUS | 2026-10-21 11:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288552-product-manager-technical) |
-| Infrastructure Engineer | wheely | CYPRUS | 2026-10-21 11:55 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/225259-site-reliability-engineer) |
-| Senior Frontend Engineer | italenters | SPAIN | 2026-10-21 11:49 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288531-senior-frontend-engineer) |
-| Senior Data Lead | plasma | UNITED KINGDOM | 2026-10-21 11:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288535-data-engineering-lead) |
-| Product Marketing Manager | ivo | United State | 2026-10-21 11:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288521-product-marketing-manager) |
-| Cybersecurity DLP Engineer | gft technologies españa | SPAIN | 2026-10-21 11:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288525-cybersecurity-dlp-engineer-devops) |
-| Cyber and Information Security Team Leader | NHS Scotland | UNITED KINGDOM | 2026-10-21 11:30 UTC | visa | [Apply](https://jaabz.com/jobs/288527-cyber-information-security-team-leader) |
-| Senior Game UI/UX Designer (Mobile, Unity) | hyperhug | CYPRUS | 2026-10-21 11:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/258456-senior-uiux-designer) |
-| Senior Full-Stack Engineer (React/React Native) – Product & Client-Side Development | plasma | UNITED KINGDOM | 2026-10-21 11:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/267321-mid-level-to-senior-software-engineer) |
-| Senior Founding Engineer - Agentic AI & Growth Infrastructure | Initi8 Recruitment | NEW YORK CITY METROPOLITAN AREA | 2026-10-21 11:19 UTC | visa | [Apply](https://jaabz.com/jobs/288501-senior-founding-engineer-ai-start-up-nyc) |
-| Tech Lead - Fenergo & Client Lifecycle Management (KYC) | gft technologies españa | SPAIN | 2026-10-21 11:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288506-tech-lead-fenergo-clm-kyc) |
+| Senior DSP Engineer - Wireless Communications & Test & Measurement | yoh, a day & zimmermann company | UNITED KINGDOM | 2026-10-22 12:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289157-senior-dsp-engineer) |
+| Manager, Technical Product Owner - Tax Transformation | Deloitte | United States | 2026-10-22 12:22 UTC | visa | [Apply](https://jaabz.com/jobs/272369-manager-technical-product-owner-tax-transformation) |
+| Data Scientist Engineer - SFL Scientific | Deloitte | GREATER SACRAMENTO | 2026-10-22 12:21 UTC | visa | [Apply](https://jaabz.com/jobs/274302-data-scientist-engineer-sfl-scientific) |
+| Junior Data Engineer (Cloud & AI) - Tokyo, Japan | Superstars | JAPAN | 2026-10-22 12:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289141-d-junior-data-engineer-d-ayen5maayen7m-yearly-ai-relocation-support-visa-sponsorship-d-tokyo-japan-hybrid) |
+| Data Acquisition Lead (AI/ML Data Infrastructure) | reflection | United State | 2026-10-22 12:14 UTC | visa | [Apply](https://jaabz.com/jobs/289143-member-of-technical-staff-engineering-lead-data-acquisition) |
+| Senior Data Engineer | Superstars | JAPAN | 2026-10-22 12:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/264800-d-senior-data-engineer-a-data-ai-d-ayen7maayen12m-d-tokyo-d-hybrid-ai-visa-sponsorship-relocation-support) |
+| LLM Engineer | Superstars | JAPAN | 2026-10-22 12:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/261318-d-llm-engineer-d-salary-jpayen6ma10m-visa-sponsorship-relocation-supportdtokyo-japan) |
+| Senior Full-Stack Software Engineer (AI Voice Technology) / Redwood City, CA | justhr | United State | 2026-10-22 11:57 UTC | visa | [Apply](https://jaabz.com/jobs/289135-full-stack-software-engineer-ai-voice-technology-usa) |
+| Senior Localization Specialist (Spanish - Mexico) - AI Translation Quality & Cultural Adaptation | gientech | CHINA | 2026-10-22 11:08 UTC | visa | [Apply](https://jaabz.com/jobs/289119-creative-writer-es-mx) |
+| Product Designer, Grow & Engage Domain | n26 | SPAIN | 2026-10-22 10:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/248945-product-designer-grow-engage) |
+| Lead Software Engineer (Trade Processing & Operations Technology) - Singapore | BAH Partners | SINGAPORE | 2026-10-22 10:30 UTC | visa | [Apply](https://jaabz.com/jobs/287678-lead-software-engineer-a-trade-processing-operations-technology-global-multi-strategy-hedge-fund-singapore-greenfield-development) |
+| Senior AI Software Engineer (LLM Applications & Engineering Automation) | digivance solutions | SAN FRANCISCO BAY AREA | 2026-10-22 10:19 UTC | visa | [Apply](https://jaabz.com/jobs/289104-ai-software-engineer) |
+| Senior Marketing Engineer – AI & Growth Automation (Multi-LLM Platform) | Set2Recruit | EUROPEAN UNION | 2026-10-22 09:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289090-marketing-engineer) |
+| Senior Backend Engineer (Java/Spring Boot/Kafka) - Berlin | Xcede | GERMANY | 2026-10-22 09:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289085-senior-backend-engineer-java-springboot-kafka-kubernetes-berlin-up-to-a120k-equity) |
+| Machine Learning Engineer (Production ML Systems) | Oliver Bernard | UNITED KINGDOM | 2026-10-22 09:28 UTC | visa | [Apply](https://jaabz.com/jobs/262774-machine-learning-engineer-up-to-aps180k-equity) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
