@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-23 12:29** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-24 11:53** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Product Engineer for Customer Care (AI-First Conversational Systems) | vivid | CYPRUS | 2026-10-23 12:26 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/289751-product-engineer) |
-| Junior Software Engineer (Full-Time) – Java/Python Developer | tetrahed inc | United State | 2026-10-23 12:24 UTC | visa | [Apply](https://jaabz.com/jobs/286881-jr-software-engineer-full-time-strictly-opt-candidates-only) |
-| Junior Post-Doctoral Researcher in Human Organoid Engineering and Disease Modeling | institute for bioengineering of catalonia (ibec) | SPAIN | 2026-10-23 12:19 UTC | visa | [Apply](https://jaabz.com/jobs/289732-postdoctoral-researcher) |
-| Senior Process Integration Engineer (300mm Wafer Fab) | Pragmatic Semiconductor | UNITED KINGDOM | 2026-10-23 11:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289699-senior-process-integration-engineer) |
-| Project Manager – Avionics, GNC & Flight Software (Space Systems) | The Exploration Company | GERMANY | 2026-10-23 11:12 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289689-project-manager-avionics-gnc-flight-software) |
-| Data Scientist Engineer - SFL Scientific | Deloitte | GREATER SACRAMENTO | 2026-10-23 11:09 UTC | visa | [Apply](https://jaabz.com/jobs/274302-data-scientist-engineer-sfl-scientific) |
-| Senior Agentic AI Engineer (LLMs, RAG, Multi-Agent Systems) | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-10-23 10:43 UTC | visa | [Apply](https://jaabz.com/jobs/289648-senior-agentic-ai-engineer) |
-| Senior Software Build Engineer (Bazel) - Hybrid | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-10-23 10:32 UTC | visa | [Apply](https://jaabz.com/jobs/289642-senior-software-build-engineer) |
-| ASIC Engineering Lead (Physical Design/STA) – Senior Technical Leadership | CyberCoders | United State | 2026-10-23 10:20 UTC | visa | [Apply](https://jaabz.com/jobs/286062-physical-design-lead-principal-or-master-level-up-to-800k) |
-| Full-Stack Developer/Business Analyst (Calypso Trading & Risk Platform) | elidi securities ltd (ex. ugm securities ltd) | CYPRUS | 2026-10-23 10:07 UTC | visa | [Apply](https://jaabz.com/jobs/289632-full-stack-developerbusiness-analyst-calypso) |
-| Consulting Associate/Cybersecurity & Incident Response (Forensic Services practice) | charles river associates | CANADA | 2026-10-23 10:06 UTC | visa | [Apply](https://jaabz.com/jobs/272292-consulting-associatecybersecurity-incident-response-forensic-services-practice) |
-| Google Infrastructure and Security Lead Architect | Deloitte | United States | 2026-10-23 10:06 UTC | visa | [Apply](https://jaabz.com/jobs/272290-google-infrastructure-and-security-lead-architect) |
-| Lead Growth Engineer (Outbound Sales Automation & Buyer Matching) | dirac trading group | UNITED KINGDOM | 2026-10-23 09:58 UTC | visa | [Apply](https://jaabz.com/jobs/289615-software-engineer) |
-| Senior C++ Software Engineer - Low-Latency Trading Systems | BAH Partners | CHINA | 2026-10-23 09:38 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289605-c-developers-wanted-in-shanghai-and-hong-kong-relocation-provided-global-proprietary-trading-firm-non-finance-welcome-to-apply) |
-| Quantitative Researcher – High Frequency Trading (HFT) | Code Compass 🧭 | SWITZERLAND | 2026-10-23 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285216-quantitative-researcher) |
+| Data Scientist Engineer - SFL Scientific | Deloitte | GREATER SACRAMENTO | 2026-10-24 11:05 UTC | visa | [Apply](https://jaabz.com/jobs/274302-data-scientist-engineer-sfl-scientific) |
+| Senior Process Leader for InP Semiconductor Laser Development & Industrialization | 25fab gmbh | SWITZERLAND | 2026-10-24 10:20 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/290078-principal-inp-process-engineer-a-cpo-laser-sources) |
+| Senior Member of Research Staff, Optimization | The Voleon Group | United States | 2026-10-24 10:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/272288-senior-member-of-research-staff-optimization) |
+| Google Infrastructure and Security Lead Architect | Deloitte | United States | 2026-10-24 10:13 UTC | visa | [Apply](https://jaabz.com/jobs/272290-google-infrastructure-and-security-lead-architect) |
+| Senior AIT Electrical Engineer (Propulsion Test Benches & Engine Systems) | The Exploration Company | FRANCE | 2026-10-24 08:52 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287298-ait-electrical-engineer) |
+| Senior Backend Engineer (Java/Spring Boot & AWS) – Production Platform Owner | prvw | SINGAPORE | 2026-10-24 05:06 UTC | visa | [Apply](https://jaabz.com/jobs/290048-senior-platform-engineer) |
+| Senior Research Infrastructure Engineer (AI/ML Systems) | hud | SINGAPORE | 2026-10-24 02:45 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/290032-senior-research-infrastructure-engineer) |
+| Senior Cloud Engineer (AWS, Kubernetes, Golang/Python) - Onsite Required | digipulse technologies inc. | United State | 2026-10-24 02:44 UTC | visa | [Apply](https://jaabz.com/jobs/290036-senior-cloud-engineer-w2-only-westlake-tx) |
+| ASIC Engineering Lead (Physical Design/STA) – Senior Technical Leadership | CyberCoders | United State | 2026-10-24 02:07 UTC | visa | [Apply](https://jaabz.com/jobs/286062-physical-design-lead-principal-or-master-level-up-to-800k) |
+| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-10-24 01:25 UTC | visa | [Apply](https://jaabz.com/jobs/285952-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
+| Software Engineer, Platform Integration | wayve | UNITED KINGDOM | 2026-10-24 01:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283602-software-engineer-platform-integration-robot-software) |
+| Senior Embedded Power Engineer | CyberCoders | United States | 2026-10-23 22:37 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
+| Senior Cloud Infrastructure Engineer | delta computer consulting | United States | 2026-10-23 22:10 UTC | visa | [Apply](https://jaabz.com/jobs/262913-senior-cloud-infrastructure-engineer) |
+| Senior Forward Deployed Engineer | mission.dev | United States | 2026-10-23 21:17 UTC | visa | [Apply](https://jaabz.com/jobs/282680-senior-forward-deployed-engineer) |
+| Senior Marketing Operations Manager (Marketing Systems & Growth Operations) | fal | United State | 2026-10-23 20:55 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/289972-marketing-operations) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
