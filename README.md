@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-24 11:53** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-25 12:25** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Data Scientist Engineer - SFL Scientific | Deloitte | GREATER SACRAMENTO | 2026-10-24 11:05 UTC | visa | [Apply](https://jaabz.com/jobs/274302-data-scientist-engineer-sfl-scientific) |
-| Senior Process Leader for InP Semiconductor Laser Development & Industrialization | 25fab gmbh | SWITZERLAND | 2026-10-24 10:20 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/290078-principal-inp-process-engineer-a-cpo-laser-sources) |
-| Senior Member of Research Staff, Optimization | The Voleon Group | United States | 2026-10-24 10:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/272288-senior-member-of-research-staff-optimization) |
-| Google Infrastructure and Security Lead Architect | Deloitte | United States | 2026-10-24 10:13 UTC | visa | [Apply](https://jaabz.com/jobs/272290-google-infrastructure-and-security-lead-architect) |
-| Senior AIT Electrical Engineer (Propulsion Test Benches & Engine Systems) | The Exploration Company | FRANCE | 2026-10-24 08:52 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287298-ait-electrical-engineer) |
-| Senior Backend Engineer (Java/Spring Boot & AWS) – Production Platform Owner | prvw | SINGAPORE | 2026-10-24 05:06 UTC | visa | [Apply](https://jaabz.com/jobs/290048-senior-platform-engineer) |
-| Senior Research Infrastructure Engineer (AI/ML Systems) | hud | SINGAPORE | 2026-10-24 02:45 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/290032-senior-research-infrastructure-engineer) |
-| Senior Cloud Engineer (AWS, Kubernetes, Golang/Python) - Onsite Required | digipulse technologies inc. | United State | 2026-10-24 02:44 UTC | visa | [Apply](https://jaabz.com/jobs/290036-senior-cloud-engineer-w2-only-westlake-tx) |
-| ASIC Engineering Lead (Physical Design/STA) – Senior Technical Leadership | CyberCoders | United State | 2026-10-24 02:07 UTC | visa | [Apply](https://jaabz.com/jobs/286062-physical-design-lead-principal-or-master-level-up-to-800k) |
-| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-10-24 01:25 UTC | visa | [Apply](https://jaabz.com/jobs/285952-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
-| Software Engineer, Platform Integration | wayve | UNITED KINGDOM | 2026-10-24 01:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283602-software-engineer-platform-integration-robot-software) |
-| Senior Embedded Power Engineer | CyberCoders | United States | 2026-10-23 22:37 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
-| Senior Cloud Infrastructure Engineer | delta computer consulting | United States | 2026-10-23 22:10 UTC | visa | [Apply](https://jaabz.com/jobs/262913-senior-cloud-infrastructure-engineer) |
-| Senior Forward Deployed Engineer | mission.dev | United States | 2026-10-23 21:17 UTC | visa | [Apply](https://jaabz.com/jobs/282680-senior-forward-deployed-engineer) |
-| Senior Marketing Operations Manager (Marketing Systems & Growth Operations) | fal | United State | 2026-10-23 20:55 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/289972-marketing-operations) |
+| Cloud Support Infrastructure Administrator (DevOps) – Lisbon, Portugal | prohat | LISBON METROPOLITAN AREA | 2026-10-25 10:59 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/290482-cloud-support-infrastructure-administrator-aps-devops-a-lisbon-portugal) |
+| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-25 10:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-25 10:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Senior Data Engineer (ETL/ELT, Data Pipelines) | BeaconFire Inc. | United State | 2026-10-25 10:20 UTC | visa | [Apply](https://jaabz.com/jobs/286441-data-engineer) |
+| Google Infrastructure and Security Lead Architect | Deloitte | United States | 2026-10-25 09:55 UTC | visa | [Apply](https://jaabz.com/jobs/272290-google-infrastructure-and-security-lead-architect) |
+| Manager, Technical Product Owner - Tax Transformation | Deloitte | United States | 2026-10-25 09:41 UTC | visa | [Apply](https://jaabz.com/jobs/272369-manager-technical-product-owner-tax-transformation) |
+| Marketing Project Manager | Tahaluf | SAUDI ARABIA | 2026-10-25 08:21 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/148910-project-manager-marketing-saudi-national) |
+| Senior AI Engineer & Technical Lead (Enterprise AI Solutions) | Superstars | JAPAN | 2026-10-25 07:30 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/290422-senior-ai-engineer-technical-lead-d-ayen8maayen15m-d-tokyo-japan-hybrid-d-visa-sponsorship-relocation) |
+| Senior Data Scientist (Machine Learning) - Financial Services | Superstars | JAPAN | 2026-10-25 07:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/290420-d-data-scientistd-ayen6maayen10m-yearly-d-tokyo-japan-hybrid-d-visa-sponsorship-relocation) |
+| Senior AI Engineer (Generative AI, ML, and Computer Vision) | Superstars | JAPAN | 2026-10-25 07:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/290421-d-ai-engineer-d-ayen6maayen12m-permanent-d-tokyo-d-hybrid) |
+| AI & Emerging Technologies Architecture Consultant (Enterprise AI & Cloud) | women in machine learning and data science, mumbai | United States | 2026-10-25 06:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/272803-ai-architecture-consultant) |
+| Back-End Developer | extramus.eu | ITALY | 2026-10-25 05:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/243859-back-end-development) |
+| Senior SAP AI Architect & Solutions Engineer | flowgen labs | United State | 2026-10-25 02:48 UTC | visa | [Apply](https://jaabz.com/jobs/286518-sap-technical-lead) |
+| Senior Embedded Power Engineer | CyberCoders | United States | 2026-10-25 01:31 UTC | visa | [Apply](https://jaabz.com/jobs/282714-sr-embedded-systems-engineer-battery-characterization) |
+| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-10-25 01:30 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
