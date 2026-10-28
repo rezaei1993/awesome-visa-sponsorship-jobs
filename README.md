@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-27 13:03** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-28 13:53** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Design Director (AI-Powered Enterprise Platform) - Abu Dhabi, UAE | good maven | UNITED ARAB EMIRATES | 2026-10-27 12:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/291378-design-director) |
-| Senior Platform DevOps Engineer (XML & GCP) - Contract | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-10-27 12:42 UTC | visa | [Apply](https://jaabz.com/jobs/291379-platform-devops-engineer-a-xml-data-automation-gcp) |
-| Senior Platform Engineer (AI Agent Runtime) - San Francisco | techtree | United State | 2026-10-27 12:39 UTC | visa | [Apply](https://jaabz.com/jobs/291386-senior-platform-engineer) |
-| Engineering Manager, AI Evaluation (Measurement Team) | wayve | UNITED KINGDOM | 2026-10-27 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/280680-staff-tech-lead-manager-machine-learning-vision-models) |
-| Senior Application Software Engineer | wayve | JAPAN | 2026-10-27 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/280645-principal-application-software-engineer) |
-| Principal Software Engineer (Full-Stack & AI Integration) - LegalTech | laine | UNITED ARAB EMIRATES | 2026-10-27 12:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/291375-principalsenior-fullstack-software-engineer) |
-| Senior Staff Software Engineer, Platform AI | Diligent | CANADA | 2026-10-27 11:17 UTC | visa | [Apply](https://jaabz.com/jobs/280866-senior-staff-software-engineer) |
-| Senior/Mid-Level DevOps Engineer (Hybrid - Gran Canaria) | KENTECH | SPAIN | 2026-10-27 11:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/277293-senior-devops-engineer) |
-| Staff Ruby on Rails Engineer | Diligent | HUNGARY | 2026-10-27 11:16 UTC | visa | [Apply](https://jaabz.com/jobs/291339-staff-software-engineer-ruby-on-rails) |
-| Technical Integration Engineer | GreenFlux | NETHERLANDS | 2026-10-27 10:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/291314-technical-integration-engineer) |
-| Senior Frontend Engineer | Smart Consulting | PORTUGAL | 2026-10-27 09:55 UTC | visa | [Apply](https://jaabz.com/jobs/291301-react-developer) |
-| Senior AI Engineer / Forward Deployed Engineer | towards ai, inc. | UNITED KINGDOM | 2026-10-27 09:49 UTC | visa | [Apply](https://jaabz.com/jobs/291304-senior-ai-engineer-forward-deployed-engineer) |
-| Product Director - Search and Mobile Platforms | Scout24 SE | GERMANY | 2026-10-27 09:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/118960-director-of-product-builders-platform-mwd) |
-| Junior Software Engineer (Go/Python) - AI/ML Track | ayan | UNITED KINGDOM | 2026-10-27 09:28 UTC | visa | [Apply](https://jaabz.com/jobs/291295-junior-aiml-engineer-gopython) |
-| Senior Software Engineer, AI Agents (AI/ML Product Development) | remotehunter | United State | 2026-10-27 09:24 UTC | remote, visa | [Apply](https://jaabz.com/jobs/291079-software-engineer-ai-agents) |
+| Business Development Director, Capital Markets, Repo and Derivatives | Circle | MIAMI-FORT LAUDERDALE AREA | 2026-10-28 13:38 UTC | visa | [Apply](https://jaabz.com/jobs/270085-business-development-director-capital-markets-repo-and-derivatives) |
+| Senior Perception & Localization Engineer (Robotics AI) | Edison Smart® | United State | 2026-10-28 13:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292060-senior-perception-localization-engineer) |
+| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-10-28 13:26 UTC | visa | [Apply](https://jaabz.com/jobs/285952-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
+| Senior Systems Engineer (Optical Systems) – Edinburgh, UK | IC Resources | UNITED KINGDOM | 2026-10-28 13:19 UTC | visa | [Apply](https://jaabz.com/jobs/292048-principal-system-engineer) |
+| Senior Backend Engineer (AI-Driven Enterprise Automation) | Goliath Partners | SAN FRANCISCO BAY AREA | 2026-10-28 13:13 UTC | visa | [Apply](https://jaabz.com/jobs/290890-backend-engineer) |
+| Senior Full Stack Engineer | DualEntry | LATIN AMERICA | 2026-10-28 13:12 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/285695-applied-engineer-remote) |
+| Senior LLM Engineer (Generative AI & AI Agents) - Tokyo, Hybrid | Superstars | JAPAN | 2026-10-28 12:49 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292035-d-llm-engineer-d-salary-jpayen6ma10m-visa-sponsorship-relocation-supportdtokyo-japan) |
+| Senior Backend Engineer (Event-Driven Fintech Platform) | anyday.io | THAILAND | 2026-10-28 12:48 UTC | visa | [Apply](https://jaabz.com/jobs/292036-senior-software-engineer-net) |
+| Data Insight Lead (Student Experience) - Strategic Planning & Performance | anglia ruskin university | UNITED KINGDOM | 2026-10-28 12:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292022-data-insight-lead-student-experience) |
+| Founders Initiatives Technical Ex-Founder (AI Systems & Automation) | retell | SAN FRANCISCO BAY AREA | 2026-10-28 12:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/281007-founders-initiatives-technical-ex-founders) |
+| Senior React Native Mobile Developer (Fintech) – Virtual Cards & Payments | anyday.io | THAILAND | 2026-10-28 12:23 UTC | visa | [Apply](https://jaabz.com/jobs/292020-senior-mobile-developer-react-native) |
+| Senior Quality Assurance Engineer (QA) - Fintech Payments & Automation | anyday.io | THAILAND | 2026-10-28 12:11 UTC | visa | [Apply](https://jaabz.com/jobs/292019-senior-qa) |
+| Senior BI Developer / Data Engineer (Microsoft Fabric & Power BI) | bridge351 | PORTUGAL | 2026-10-28 11:58 UTC | remote, visa | [Apply](https://jaabz.com/jobs/292013-data-engineering-azure-fabricdatabricks-powerbi) |
+| Senior Penetration Tester (Cyber Security) - Dubai | job basket | UNITED ARAB EMIRATES | 2026-10-28 11:46 UTC | visa | [Apply](https://jaabz.com/jobs/292006-sr-specialist-pen-tester) |
+| Forward Deployed AI/ML Engineer (Data Pipelines & Integrations) | profound people | AUSTRALIA | 2026-10-28 11:33 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292003-forward-deployed-engineer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
