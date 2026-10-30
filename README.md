@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-29 13:59** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-30 13:54** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Technical Recruiter (Hardware Engineering) - Onsite, Mountain View | densityai | United State | 2026-10-29 13:19 UTC | visa | [Apply](https://jaabz.com/jobs/292513-technical-recruiter) |
-| Senior Backend Engineer (AI Voice Infrastructure) | alexander chapman | SAN FRANCISCO BAY AREA | 2026-10-29 13:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292507-founding-engineer) |
-| Data Engineer | Deloitte | United States | 2026-10-29 13:00 UTC | visa | [Apply](https://jaabz.com/jobs/270767-data-engineer) |
-| Chief Innovation Officer | trinny london | UNITED KINGDOM | 2026-10-29 12:46 UTC | visa | [Apply](https://jaabz.com/jobs/278194-chief-innovation-officer) |
-| Senior Full-Stack Engineer (AI Platform) | pair | UNITED KINGDOM | 2026-10-29 12:46 UTC | visa | [Apply](https://jaabz.com/jobs/292494-full-stack-engineer) |
-| Lead AI Engineer & Team Manager (Enterprise AI & Agentic Systems) | deeplight ai | UNITED ARAB EMIRATES | 2026-10-29 12:31 UTC | visa | [Apply](https://jaabz.com/jobs/292491-lead-ai-engineer) |
-| Founding Firmware Engineer (Gut Health Wearable) | suna | United State | 2026-10-29 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292488-founding-firmware-engineer) |
-| Subscription Growth Manager (Hardware + SaaS) - PocketPocket | techtree | United State | 2026-10-29 12:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292480-senior-growth-pm-monetization) |
-| Senior/Lead Quantum Compiler & Instruction Set Architecture (ISA) Engineer | planqc | GERMANY | 2026-10-29 11:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292456-quantum-compiler-engineer) |
-| Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation | Deloitte | United States | 2026-10-29 11:21 UTC | visa | [Apply](https://jaabz.com/jobs/272505-cyber-palo-alto-networks-security-engineer-senior-consultant-strategy-growth-and-transformation) |
-| Senior BMC Firmware Engineer (Intel/AMD/NVIDIA Server Platforms) | insyde software | TAIWAN | 2026-10-29 10:12 UTC | visa | [Apply](https://jaabz.com/jobs/292431-senior-bmc-firmware-engineer-aaeusa) |
-| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-10-29 09:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
-| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-29 09:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-29 09:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Full-Stack Engineer (GPU Infrastructure Platform) | remotehunter | United State | 2026-10-29 08:38 UTC | remote, visa | [Apply](https://jaabz.com/jobs/292403-senior-full-stack-engineer) |
+| Senior Backend Engineer (AI-Driven Enterprise Automation) | Goliath Partners | SAN FRANCISCO BAY AREA | 2026-10-30 13:48 UTC | visa | [Apply](https://jaabz.com/jobs/290890-backend-engineer) |
+| Senior Python Engineer (ETF Investment Analytics) - On-Site Hybrid | prismagic solutions inc. | United State | 2026-10-30 13:34 UTC | visa | [Apply](https://jaabz.com/jobs/293076-senior-python-engineer) |
+| Enterprise Telecom Field Technician (Fiber Optics & Networking) - Dubai, UAE | Xad Technologies | UNITED ARAB EMIRATES | 2026-10-30 13:33 UTC | visa | [Apply](https://jaabz.com/jobs/293079-enterprise-telecom-field-technician-a-fiber-networking) |
+| Associate Business Engineer (Integration & Automation) | hrcap, inc. | United State | 2026-10-30 13:32 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293081-associate-business-engineer) |
+| Junior Cybersecurity Analyst - Fully Remote | hrcap, inc. | United States | 2026-10-30 13:30 UTC | remote, visa | [Apply](https://jaabz.com/jobs/251861-cyber-security-analyst) |
+| C++ Engineer for Simulation & Test Support Software | orbital critical systems (grupo caf) | GERMANY | 2026-10-30 13:13 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/263729-software-developer-c-a-germany-airbus-projects) |
+| Senior Data Engineer (Databricks & Spark Specialist) - Remote | System Soft Technologies | United State | 2026-10-30 13:03 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293065-databricks-data-engineer) |
+| Analytics Engineer | profound | United States | 2026-10-30 12:59 UTC | visa | [Apply](https://jaabz.com/jobs/281796-member-of-technical-staff-analytics-engineer) |
+| Senior Full-Stack Software Engineer (Risk & Compliance AI) | core occupational medicine | United State | 2026-10-30 12:49 UTC | visa | [Apply](https://jaabz.com/jobs/293060-software-engineer-full-stack) |
+| Influencer Marketing Executive (Performance) - UAE Growth & Creator Partnerships | fitt meals | UNITED ARAB EMIRATES | 2026-10-30 12:32 UTC | visa | [Apply](https://jaabz.com/jobs/293049-influencer-marketing-manager) |
+| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-30 12:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| AI Engineering Specialist (Multiple Roles: FDE, Prompt Engineer, Lead, Architect) | Bestinfo Systems LLC | United States | 2026-10-30 12:15 UTC | visa | [Apply](https://jaabz.com/jobs/285737-forward-deployed-engineer-a-agentic-ai) |
+| Senior Cloud Network Engineer (AWS) | hfm | GREECE | 2026-10-30 12:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/293042-cloud-network-engineer) |
+| Senior Master Data Management (MDM) Lead - Data Architecture & Cloud Solutions | itek people inc | United State | 2026-10-30 12:01 UTC | visa | [Apply](https://jaabz.com/jobs/293040-mdm-lead) |
+| Full-Stack Developer/Business Analyst (Calypso Trading & Risk Platform) | elidi securities ltd (ex. ugm securities ltd) | CYPRUS | 2026-10-30 11:09 UTC | visa | [Apply](https://jaabz.com/jobs/289632-full-stack-developerbusiness-analyst-calypso) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
