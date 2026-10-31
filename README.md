@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-30 13:54** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-10-31 13:27** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Backend Engineer (AI-Driven Enterprise Automation) | Goliath Partners | SAN FRANCISCO BAY AREA | 2026-10-30 13:48 UTC | visa | [Apply](https://jaabz.com/jobs/290890-backend-engineer) |
-| Senior Python Engineer (ETF Investment Analytics) - On-Site Hybrid | prismagic solutions inc. | United State | 2026-10-30 13:34 UTC | visa | [Apply](https://jaabz.com/jobs/293076-senior-python-engineer) |
-| Enterprise Telecom Field Technician (Fiber Optics & Networking) - Dubai, UAE | Xad Technologies | UNITED ARAB EMIRATES | 2026-10-30 13:33 UTC | visa | [Apply](https://jaabz.com/jobs/293079-enterprise-telecom-field-technician-a-fiber-networking) |
-| Associate Business Engineer (Integration & Automation) | hrcap, inc. | United State | 2026-10-30 13:32 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293081-associate-business-engineer) |
-| Junior Cybersecurity Analyst - Fully Remote | hrcap, inc. | United States | 2026-10-30 13:30 UTC | remote, visa | [Apply](https://jaabz.com/jobs/251861-cyber-security-analyst) |
-| C++ Engineer for Simulation & Test Support Software | orbital critical systems (grupo caf) | GERMANY | 2026-10-30 13:13 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/263729-software-developer-c-a-germany-airbus-projects) |
-| Senior Data Engineer (Databricks & Spark Specialist) - Remote | System Soft Technologies | United State | 2026-10-30 13:03 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293065-databricks-data-engineer) |
-| Analytics Engineer | profound | United States | 2026-10-30 12:59 UTC | visa | [Apply](https://jaabz.com/jobs/281796-member-of-technical-staff-analytics-engineer) |
-| Senior Full-Stack Software Engineer (Risk & Compliance AI) | core occupational medicine | United State | 2026-10-30 12:49 UTC | visa | [Apply](https://jaabz.com/jobs/293060-software-engineer-full-stack) |
-| Influencer Marketing Executive (Performance) - UAE Growth & Creator Partnerships | fitt meals | UNITED ARAB EMIRATES | 2026-10-30 12:32 UTC | visa | [Apply](https://jaabz.com/jobs/293049-influencer-marketing-manager) |
-| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-30 12:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| AI Engineering Specialist (Multiple Roles: FDE, Prompt Engineer, Lead, Architect) | Bestinfo Systems LLC | United States | 2026-10-30 12:15 UTC | visa | [Apply](https://jaabz.com/jobs/285737-forward-deployed-engineer-a-agentic-ai) |
-| Senior Cloud Network Engineer (AWS) | hfm | GREECE | 2026-10-30 12:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/293042-cloud-network-engineer) |
-| Senior Master Data Management (MDM) Lead - Data Architecture & Cloud Solutions | itek people inc | United State | 2026-10-30 12:01 UTC | visa | [Apply](https://jaabz.com/jobs/293040-mdm-lead) |
-| Full-Stack Developer/Business Analyst (Calypso Trading & Risk Platform) | elidi securities ltd (ex. ugm securities ltd) | CYPRUS | 2026-10-30 11:09 UTC | visa | [Apply](https://jaabz.com/jobs/289632-full-stack-developerbusiness-analyst-calypso) |
+| Senior Full Stack Developer with AI Integration Focus | BeaconFire Inc. | United States | 2026-10-31 13:16 UTC | visa | [Apply](https://jaabz.com/jobs/265314-java-software-engineer) |
+| Senior/Staff/Principal Physical IC Design Engineer (ASIC) | CyberCoders | United State | 2026-10-31 13:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287921-physical-design-engineer-senior-staff-or-principal-up-to-580k) |
+| Senior Talent Operations Specialist | reflection | United States | 2026-10-31 12:26 UTC | visa | [Apply](https://jaabz.com/jobs/293473-senior-talent-operations-specialist) |
+| Data Scientist Engineer - SFL Scientific | Deloitte | GREATER SACRAMENTO | 2026-10-31 12:12 UTC | visa | [Apply](https://jaabz.com/jobs/274302-data-scientist-engineer-sfl-scientific) |
+| Junior AI/ML Engineer - Computer Vision & Deep Learning (SC Cleared) | agilegrid solutions | UNITED KINGDOM | 2026-10-31 10:30 UTC | visa | [Apply](https://jaabz.com/jobs/293439-aiml-engineer) |
+| Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation | Deloitte | United States | 2026-10-31 10:29 UTC | visa | [Apply](https://jaabz.com/jobs/272505-cyber-palo-alto-networks-security-engineer-senior-consultant-strategy-growth-and-transformation) |
+| Senior Java Full-Stack Developer with AI Integration (RAG Pipeline Expert) | BeaconFire Inc. | United State | 2026-10-31 10:29 UTC | visa | [Apply](https://jaabz.com/jobs/293438-java-developer) |
+| Enterprise Automation Adoption Lead | n8n | GREECE | 2026-10-31 09:50 UTC | remote, visa | [Apply](https://jaabz.com/jobs/285850-deployment-strategist-remote-europe) |
+| Cybersecurity Consultant (Assessments / Due Diligence / Advisory) | charles river associates | United States | 2026-10-31 09:26 UTC | visa | [Apply](https://jaabz.com/jobs/282766-senior-associatecybersecurity-consultant-due-diligence-advisory-forensic-services-practice) |
+| Enterprise Telecom Field Technician (Fiber Optics & Networking) - Dubai, UAE | Xad Technologies | UNITED ARAB EMIRATES | 2026-10-31 09:03 UTC | visa | [Apply](https://jaabz.com/jobs/293079-enterprise-telecom-field-technician-a-fiber-networking) |
+| Senior Infrastructure Engineer (Distributed Systems & Cloud Platform) | Recruiting from Scratch | United State | 2026-10-31 06:45 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293415-infrastructure-engineer) |
+| Senior Systems Engineer (Cloud, Linux, Kubernetes) | machine learning technologies llc | United State | 2026-10-31 06:44 UTC | visa | [Apply](https://jaabz.com/jobs/293416-systems-engineer) |
+| Senior Research Engineer, Post-Training & Model Alignment (AI Safety) | techify | SWITZERLAND | 2026-10-31 06:21 UTC | visa | [Apply](https://jaabz.com/jobs/293411-frequently-asked-questions) |
+| Senior Automotive Cybersecurity Penetration Testing Engineer | machine learning technologies llc | United State | 2026-10-31 06:10 UTC | visa | [Apply](https://jaabz.com/jobs/293410-penetration-testing-engineer) |
+| Senior ReactJS Developer (Front-End Engineering) | machine learning technologies llc | United State | 2026-10-31 05:59 UTC | visa | [Apply](https://jaabz.com/jobs/293406-reactjs-developer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
