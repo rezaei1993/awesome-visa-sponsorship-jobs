@@ -41,25 +41,11 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-01 14:08** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-02 16:54** · showing **0** of 0 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Flexible Technical Leadership Role (Engineering, Product, or Operations) | careerjet | GERMANY | 2026-11-01 14:08 UTC | visa | [Apply](https://jaabz.com/jobs/293973-ex-founder-ex-cto) |
-| Sales Engineer (DACH Region) | brevo | GERMANY | 2026-11-01 14:07 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/293974-sales-engineer-enterprise-dach) |
-| Java Developer (Spring Boot, AI Integration) - New York, NY | BeaconFire Inc. | United States | 2026-11-01 13:30 UTC | visa | [Apply](https://jaabz.com/jobs/293959-java-software-engineer) |
-| AI Developer (Spring Boot Microservices) - New York, NY | BeaconFire Inc. | United States | 2026-11-01 13:24 UTC | visa | [Apply](https://jaabz.com/jobs/293957-java-software-engineer) |
-| AIT Propulsion Engineer (Spacecraft Propulsion Systems) | The Exploration Company | GERMANY | 2026-11-01 13:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292375-ait-propulsion-engineer) |
-| AI Developer (Spring Boot Microservices) - New York, NY | BeaconFire Inc. | United States | 2026-11-01 13:21 UTC | visa | [Apply](https://jaabz.com/jobs/293949-artificial-intelligence-engineer) |
-| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-11-01 10:07 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
-| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-01 10:07 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Product Engineer (Python / Go) - Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-01 10:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/293892-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior C++ Software Engineer - Low-Latency Trading Systems | BAH Partners | CHINA | 2026-11-01 08:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289605-c-developers-wanted-in-shanghai-and-hong-kong-relocation-provided-global-proprietary-trading-firm-non-finance-welcome-to-apply) |
-| Kubernetes Platform Engineer | clera | United States | 2026-11-01 08:07 UTC | visa | [Apply](https://jaabz.com/jobs/293789-platform-engineer-kubernetes) |
-| Senior Counsel (Commercial) | olix | UNITED KINGDOM | 2026-11-01 08:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/293810-senior-counsel-commercial) |
-| Software Engineer, Robotics | true-talent-solutions-partners | United States | 2026-11-01 07:56 UTC | visa | [Apply](https://jaabz.com/jobs/293864-robotics-software-engineer) |
-| Frontend Engineer | true-talent-solutions-partners | United States | 2026-11-01 07:55 UTC | visa | [Apply](https://jaabz.com/jobs/293865-frontend-engineer) |
-| Founding AI Engineer | true-talent-solutions-partners | United States | 2026-11-01 07:54 UTC | visa | [Apply](https://jaabz.com/jobs/293866-founding-ai-engineer) |
+| _No matching jobs in today's digest_ | — | — | — | — | [Jaabz](https://jaabz.com) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
