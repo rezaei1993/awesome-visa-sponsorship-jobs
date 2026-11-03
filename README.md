@@ -41,11 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-02 16:54** · showing **0** of 0 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-03 14:55** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| _No matching jobs in today's digest_ | — | — | — | — | [Jaabz](https://jaabz.com) |
+| UI/UX Lead | softspace | UNITED ARAB EMIRATES | 2026-11-03 14:50 UTC | visa | [Apply](https://jaabz.com/jobs/295861-uiux-lead) |
+| Data Engineer | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-03 14:46 UTC | visa | [Apply](https://jaabz.com/jobs/295879-data-engineer) |
+| Data Architect | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-03 14:45 UTC | visa | [Apply](https://jaabz.com/jobs/295881-data-architect) |
+| Principal Product Security Architect | Stott and May | FRANCE | 2026-11-03 14:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295891-principal-product-security-architect-common-criteria-sesip-psa-certified-fips-140-3-iso-21434-eu-cra) |
+| VLA/WAM Research Engineer | flexion | SWITZERLAND | 2026-11-03 14:38 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295897-vlawam-research-engineer) |
+| Head of Marketing & Developer Community Growth (B2B Tech/SaaS) | conduct | United State | 2026-11-03 14:28 UTC | visa | [Apply](https://jaabz.com/jobs/292594-social-community-lead) |
+| Entry-Level Data Analyst | ATC | United States | 2026-11-03 14:25 UTC | visa | [Apply](https://jaabz.com/jobs/159481-data-analyst) |
+| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-11-03 14:18 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
+| Senior .NET Developer (Enterprise Applications & Cloud Modernization) | Precision Technologies | United States | 2026-11-03 14:18 UTC | visa | [Apply](https://jaabz.com/jobs/281019-dotnet-developer) |
+| Platform Engineer | Catawiki | NETHERLANDS | 2026-11-03 14:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295836-platform-engineer) |
+| Quantum Success Engineer | connect-ai | NETHERLANDS | 2026-11-03 13:46 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295652-quantum-success-engineer) |
+| Enterprise Product Marketing Manager | resolveai | United States | 2026-11-03 13:42 UTC | visa | [Apply](https://jaabz.com/jobs/295662-product-marketing-manager) |
+| Lead Brand Designer | conduct | UNITED KINGDOM | 2026-11-03 13:18 UTC | visa | [Apply](https://jaabz.com/jobs/295786-lead-brand-designer) |
+| Social Media Manager (Films, Media & Artist Management) | rey studio | INDIA | 2026-11-03 13:15 UTC | visa | [Apply](https://jaabz.com/jobs/295794-social-media-manager) |
+| Senior ABAP Engineer | conduct | UNITED KINGDOM | 2026-11-03 13:12 UTC | visa | [Apply](https://jaabz.com/jobs/295804-abap-ai-developer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
