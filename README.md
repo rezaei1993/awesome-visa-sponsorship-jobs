@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-06 14:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-07 13:48** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Backend Engineer | alexander chapman | — | 2026-11-06 14:32 UTC | visa | [Apply](https://jaabz.com/jobs/298642-software-engineer-founding-engineer) |
-| Senior Business and System Analyst | FxPro | CYPRUS | 2026-11-06 14:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/298670-senior-business-analyst-senior-system-analyst-positions) |
-| Data Architect | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-06 14:23 UTC | visa | [Apply](https://jaabz.com/jobs/298671-data-architect-a-microsoft-azure) |
-| Senior Dynamics 365 Customer Engagement Developer | Nigel Frank International | NETHERLANDS | 2026-11-06 14:22 UTC | visa | [Apply](https://jaabz.com/jobs/298674-senior-d365-customer-engagement-ce-developer) |
-| Entry-Level Financial Statement Audit Associate | hrcap, inc. | United States | 2026-11-06 14:14 UTC | visa | [Apply](https://jaabz.com/jobs/298676-financial-statement-audit-associate) |
-| Secure Coding (SECO) Domain Expert | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-06 14:10 UTC | visa | [Apply](https://jaabz.com/jobs/298683-secure-coding-seco-domain-expert) |
-| Chief Scientific Officer (CSO) | antiverse | UNITED KINGDOM | 2026-11-06 14:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/298684-chief-scientific-officer) |
-| Industrial Designer | circ | CHINA | 2026-11-06 13:55 UTC | visa | [Apply](https://jaabz.com/jobs/298662-industrial-designer) |
-| Senior Software Engineer (Critical Engineering APAC) | Optiver | AUSTRALIA | 2026-11-06 13:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/298595-senior-software-engineer-a-critical-engineering) |
-| Growth Engineer | krea | United States | 2026-11-06 12:42 UTC | visa | [Apply](https://jaabz.com/jobs/298592-growth-engineer) |
-| Agent Systems Engineer – AI Model Routing | rnb consultancy | United States | 2026-11-06 12:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/298591-agent-systems-engineer-ai-model-routing-startup) |
-| People Operations Advisor | futuredeluxe | UNITED KINGDOM | 2026-11-06 12:28 UTC | visa | [Apply](https://jaabz.com/jobs/298585-people-operations-advisor-hr) |
-| Senior Data Engineer (Microsoft Fabric & Cloud-Native Data Platforms) - Financial Services | lgg advisors | PORTUGAL | 2026-11-06 12:07 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/267165-senior-data-engineer-ms-fabric-experience) |
-| Security Operations Tech Lead - Cloud Detection & Response | verily health | United States | 2026-11-06 12:05 UTC | visa | [Apply](https://jaabz.com/jobs/298544-security-operations-tech-lead) |
-| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-06 12:04 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Brand Marketing Manager | the greater change | UNITED ARAB EMIRATES | 2026-11-07 13:05 UTC | visa | [Apply](https://jaabz.com/jobs/299405-brand-marketing-manager-real-estate-brand-project-launch) |
+| Senior AWS Data Engineer | fr consultancy | UNITED ARAB EMIRATES | 2026-11-07 12:59 UTC | visa | [Apply](https://jaabz.com/jobs/299418-aws-data-engineer-dubai-based) |
+| Marketing Manager | the greater change | UNITED ARAB EMIRATES | 2026-11-07 12:52 UTC | visa | [Apply](https://jaabz.com/jobs/299406-marketing-manager-real-estate-technology-longevity) |
+| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-11-07 12:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
+| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-07 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-07 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Software Development Engineer (Java) - Budapest, Hungary | tesco business solutions and tesco technology (tesco-bst) | HUNGARY | 2026-11-07 11:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/299282-software-development-engineer-ii-myproduct-cost-deals-fuel-and-cost-api) |
+| Avionics Systems Engineer (Flight Computer System) - Spacecraft Development | The Exploration Company | GERMANY | 2026-11-07 11:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/299293-avionics-system-engineer-flight-computer-system) |
+| Senior QA Engineer (Backend) | Spotware Systems | CYPRUS | 2026-11-07 11:11 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283496-senior-backend-qa-manual-tcp-grpc-websocket) |
+| Agentic AI Engineer â Healthcare AI | Deloitte | United States | 2026-11-07 11:08 UTC | visa | [Apply](https://jaabz.com/jobs/270939-agentic-ai-engineer-a-healthcare-ai) |
+| IT Support Specialist | unity star import and export fze llc | UNITED ARAB EMIRATES | 2026-11-07 11:05 UTC | visa | [Apply](https://jaabz.com/jobs/299295-it-support-specialist) |
+| Project Manager | intellibee inc | United States | 2026-11-07 11:03 UTC | visa | [Apply](https://jaabz.com/jobs/299296-project-manager) |
+| Senior Backend Engineer | Goliath Partners | United States | 2026-11-07 10:56 UTC | visa | [Apply](https://jaabz.com/jobs/299277-senior-backend-engineer) |
+| Post-Training Research Scientist | true-talent-solutions-partners | United States | 2026-11-07 10:33 UTC | visa | [Apply](https://jaabz.com/jobs/299249-research-scientist-post-training) |
+| Internal AI Product Manager | true-talent-solutions-partners | United States | 2026-11-07 10:32 UTC | visa | [Apply](https://jaabz.com/jobs/299250-technical-product-manager) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
