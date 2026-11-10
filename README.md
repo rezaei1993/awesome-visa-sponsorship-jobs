@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-09 17:16** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-10 15:28** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Technical Recruiter | Genesis AI | FRANCE | 2026-11-09 16:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300909-recruiter-ai-research-engineering) |
-| Recruiter | anthropic | United States | 2026-11-09 16:36 UTC | visa | [Apply](https://jaabz.com/jobs/300913-recruiter-communications) |
-| Senior People Partner / HR Business Partner | Genesis AI | United States | 2026-11-09 16:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300916-senior-people-partner) |
-| Senior Technical Talent Sourcing Specialist (AI/ML/Robotics) | Genesis AI | UNITED KINGDOM | 2026-11-09 16:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300910-sourcer-ai-research-engineering) |
-| Automation Engineer – Service Virtualization & AI-Assisted Testing | ClifyX | United States | 2026-11-09 16:19 UTC | visa | [Apply](https://jaabz.com/jobs/300888-automation-engineer-a-service-virtualization-genai) |
-| Market Research & Insights Analyst | university of sussex | UNITED KINGDOM | 2026-11-09 16:18 UTC | visa | [Apply](https://jaabz.com/jobs/300895-senior-marketing-and-insights-data-officer-ref-60027) |
-| Senior AI/ML Engineer (W2) | symplore inc | United States | 2026-11-09 16:06 UTC | visa | [Apply](https://jaabz.com/jobs/300879-sr-aiml-engineer) |
-| Growth Engineering & Recruiting Automation Lead | Genesis AI | FRANCE | 2026-11-09 16:05 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300881-growth-engineer-recruiting-people) |
-| Senior Java/Spring Boot Developer (Contract) | KYYBA Inc | CANADA | 2026-11-09 16:03 UTC | visa | [Apply](https://jaabz.com/jobs/300880-fullstack-java-developer) |
-| Software Engineer (AI-Powered Workspace Software) | capykind | United States | 2026-11-09 16:00 UTC | visa | [Apply](https://jaabz.com/jobs/300875-software-engineer-at-capykind) |
-| Senior Backend Software Engineer (Contract) | college board | United States | 2026-11-09 15:59 UTC | remote, visa | [Apply](https://jaabz.com/jobs/300872-senior-software-engineers) |
-| Junior Graphic Designer | the greater change | UNITED ARAB EMIRATES | 2026-11-09 14:47 UTC | visa | [Apply](https://jaabz.com/jobs/300808-junior-graphic-designer-digital-and-brand) |
-| Senior Backend Engineer | Goliath Partners | United States | 2026-11-09 14:46 UTC | visa | [Apply](https://jaabz.com/jobs/300813-senior-backend-engineer) |
-| Social Media Manager | the greater change | UNITED ARAB EMIRATES | 2026-11-09 14:45 UTC | visa | [Apply](https://jaabz.com/jobs/300827-social-media-manager-real-estate-tech-and-longevity) |
-| Entry-Level Data Analyst | ATC | United States | 2026-11-09 14:41 UTC | visa | [Apply](https://jaabz.com/jobs/159481-data-analyst) |
+| Senior Software Engineer (Fintech Fraud Prevention & AI Systems) | velocehr | United States | 2026-11-10 15:20 UTC | visa | [Apply](https://jaabz.com/jobs/301754-staff-full-stack-engineer) |
+| Full Stack / Data Engineer (W2) | digipulse technologies inc. | United States | 2026-11-10 15:12 UTC | visa | [Apply](https://jaabz.com/jobs/301755-full-stack-data-engineer-w2-only) |
+| Senior/Staff Backend Engineer (Go/Java) – AI Fintech Fraud Prevention | velocehr | United States | 2026-11-10 15:07 UTC | visa | [Apply](https://jaabz.com/jobs/301757-staff-backend-engineer-javago-ai-fintech) |
+| Senior/Principal 5G PHY & SoC System Architect (Hybrid) | co=yoh (a day & zimmerman company) | UNITED KINGDOM | 2026-11-10 15:06 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/301804-5g-phy-soc-architect) |
+| Senior AI Engineer (Staff/Principal) – AI/ML Systems | all known services | United States | 2026-11-10 15:05 UTC | visa | [Apply](https://jaabz.com/jobs/301806-ai-engineer) |
+| ASIC Engineering Lead (Physical Design/STA) – Senior Technical Leadership | CyberCoders | United State | 2026-11-10 15:04 UTC | visa | [Apply](https://jaabz.com/jobs/286062-physical-design-lead-principal-or-master-level-up-to-800k) |
+| Entry-Level Data Analyst | ATC | United States | 2026-11-10 14:59 UTC | visa | [Apply](https://jaabz.com/jobs/159481-data-analyst) |
+| Lead Software Engineer (Safety Intelligence Platform) | coera robotics | GERMANY | 2026-11-10 14:58 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/301759-lead-software-engineer) |
+| Forward Deployed Engineer (Data Engineering, AI Strategy Platform) | morela solutions | UNITED KINGDOM | 2026-11-10 14:57 UTC | visa | [Apply](https://jaabz.com/jobs/301765-data-engineer-forward-deployed) |
+| Junior Data Engineer | BeaconFire Inc. | United States | 2026-11-10 14:56 UTC | remote, visa | [Apply](https://jaabz.com/jobs/301766-data-engineer) |
+| Graphic and Multimedia Designer | ruhrose | UNITED KINGDOM | 2026-11-10 14:52 UTC | visa | [Apply](https://jaabz.com/jobs/301782-graphic-designer) |
+| Lead Data Engineer (Data Architect) | SIDRAM TECHNOLOGIES | United States | 2026-11-10 14:50 UTC | visa | [Apply](https://jaabz.com/jobs/301767-data-architect-cary-nc-fulltime-h1bgcusc) |
+| Junior Generative AI Engineer | BeaconFire Inc. | United States | 2026-11-10 14:45 UTC | remote, visa | [Apply](https://jaabz.com/jobs/301774-generative-ai-engineer) |
+| Junior Data Scientist | Cobblestone Energy | UNITED ARAB EMIRATES | 2026-11-10 14:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/278224-commercial-graduate-scheme-junior-data-scientist) |
+| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-11-10 14:45 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
