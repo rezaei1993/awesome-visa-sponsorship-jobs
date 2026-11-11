@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-10 15:28** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-11 14:58** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Software Engineer (Fintech Fraud Prevention & AI Systems) | velocehr | United States | 2026-11-10 15:20 UTC | visa | [Apply](https://jaabz.com/jobs/301754-staff-full-stack-engineer) |
-| Full Stack / Data Engineer (W2) | digipulse technologies inc. | United States | 2026-11-10 15:12 UTC | visa | [Apply](https://jaabz.com/jobs/301755-full-stack-data-engineer-w2-only) |
-| Senior/Staff Backend Engineer (Go/Java) – AI Fintech Fraud Prevention | velocehr | United States | 2026-11-10 15:07 UTC | visa | [Apply](https://jaabz.com/jobs/301757-staff-backend-engineer-javago-ai-fintech) |
-| Senior/Principal 5G PHY & SoC System Architect (Hybrid) | co=yoh (a day & zimmerman company) | UNITED KINGDOM | 2026-11-10 15:06 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/301804-5g-phy-soc-architect) |
-| Senior AI Engineer (Staff/Principal) – AI/ML Systems | all known services | United States | 2026-11-10 15:05 UTC | visa | [Apply](https://jaabz.com/jobs/301806-ai-engineer) |
-| ASIC Engineering Lead (Physical Design/STA) – Senior Technical Leadership | CyberCoders | United State | 2026-11-10 15:04 UTC | visa | [Apply](https://jaabz.com/jobs/286062-physical-design-lead-principal-or-master-level-up-to-800k) |
-| Entry-Level Data Analyst | ATC | United States | 2026-11-10 14:59 UTC | visa | [Apply](https://jaabz.com/jobs/159481-data-analyst) |
-| Lead Software Engineer (Safety Intelligence Platform) | coera robotics | GERMANY | 2026-11-10 14:58 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/301759-lead-software-engineer) |
-| Forward Deployed Engineer (Data Engineering, AI Strategy Platform) | morela solutions | UNITED KINGDOM | 2026-11-10 14:57 UTC | visa | [Apply](https://jaabz.com/jobs/301765-data-engineer-forward-deployed) |
-| Junior Data Engineer | BeaconFire Inc. | United States | 2026-11-10 14:56 UTC | remote, visa | [Apply](https://jaabz.com/jobs/301766-data-engineer) |
-| Graphic and Multimedia Designer | ruhrose | UNITED KINGDOM | 2026-11-10 14:52 UTC | visa | [Apply](https://jaabz.com/jobs/301782-graphic-designer) |
-| Lead Data Engineer (Data Architect) | SIDRAM TECHNOLOGIES | United States | 2026-11-10 14:50 UTC | visa | [Apply](https://jaabz.com/jobs/301767-data-architect-cary-nc-fulltime-h1bgcusc) |
-| Junior Generative AI Engineer | BeaconFire Inc. | United States | 2026-11-10 14:45 UTC | remote, visa | [Apply](https://jaabz.com/jobs/301774-generative-ai-engineer) |
-| Junior Data Scientist | Cobblestone Energy | UNITED ARAB EMIRATES | 2026-11-10 14:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/278224-commercial-graduate-scheme-junior-data-scientist) |
-| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-11-10 14:45 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
+| Staff Engineer - Unified API | litellm | United States | 2026-11-11 14:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/302638-staff-engineer-ai) |
+| Staff Engineer | litellm | United States | 2026-11-11 14:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/302639-staff-engineer-systems-and-reliability) |
+| AI Engineer / LLM Engineer / Data Scientist | Superstars | JAPAN | 2026-11-11 14:38 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/302600-weare-hiring-ai-engineers-llm-engineers-data-scientists-d-ayen6maayen12m-yearly-d-tokyo-japan-hybrid-d-visa-sponsorship-relocation-support-available) |
+| Senior Associate - Application Development | pwc mauritius | MAURITIUS | 2026-11-11 14:37 UTC | visa | [Apply](https://jaabz.com/jobs/302602-senior-associate-business-solutions) |
+| Senior Iran Crypto Threat Intelligence Analyst | Chainalysis | UNITED KINGDOM | 2026-11-11 14:24 UTC | remote, visa | [Apply](https://jaabz.com/jobs/263592-senior-intelligence-analyst-iran-focus) |
+| Senior Backend Software Engineer with Generative AI Focus | BeaconFire Inc. | NEW YORK CITY METROPOLITAN AREA | 2026-11-11 14:10 UTC | visa | [Apply](https://jaabz.com/jobs/293230-artificial-intelligence-engineer) |
+| Senior Full Stack Engineer | DualEntry | LATIN AMERICA | 2026-11-11 14:10 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/285695-applied-engineer-remote) |
+| Senior Frontend Software Engineer | SonicWall | INDIA | 2026-11-11 14:07 UTC | remote, visa | [Apply](https://jaabz.com/jobs/264963-senior-frontend-engineer-javascript-es6-vue-3-experience-is-a-must) |
+| Data Engineers, Data Analysts & IT Consultants (Permanent) in Japan | Superstars | JAPAN | 2026-11-11 14:07 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/302595-d-weare-hiring-in-japan-data-engineers-data-analysts-it-consultants-d-ayen5maayen15m-d-tokyo-japan-hybridremote-d-visa-sponsorship-relocation-support-available) |
+| Business Development Director, Capital Markets, Repo and Derivatives | Circle | MIAMI-FORT LAUDERDALE AREA | 2026-11-11 14:04 UTC | visa | [Apply](https://jaabz.com/jobs/270085-business-development-director-capital-markets-repo-and-derivatives) |
+| Senior Query Engine Developer (Graph-Native Query Infrastructure) | clera | United States | 2026-11-11 13:19 UTC | visa | [Apply](https://jaabz.com/jobs/302567-senior-data-infrastructure-engineer-query-engine) |
+| Senior Backend Engineer (Industrial AI Data Infrastructure) | clera | United States | 2026-11-11 13:17 UTC | visa | [Apply](https://jaabz.com/jobs/302570-full-stack-engineer) |
+| Senior Full-Stack/Backend Software Engineer (AI-Powered Supply Chain) | clera | United States | 2026-11-11 13:16 UTC | visa | [Apply](https://jaabz.com/jobs/302568-software-engineer) |
+| .NET Full Stack Developer with Angular (Buffalo, NY) | robotics technologies | United States | 2026-11-11 13:07 UTC | visa | [Apply](https://jaabz.com/jobs/302565-net-full-stack-with-angular) |
+| System Engineer (Space Systems & Cryogenics) - Luxembourg | The Exploration Company | LUXEMBOURG | 2026-11-11 13:04 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/302523-system-engineer-in-orbit-cryogenic-systems) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
