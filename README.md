@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-12 15:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-13 15:11** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Web Application Developer (Permanent Relocation to Canada) | flynn group of companies | CANADA | 2026-11-12 15:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/303478-hiring-in-canada-senior-web-application-developer) |
-| Applied AI Engineer (Graduate) - London/Berlin | resonance | UNITED KINGDOM | 2026-11-12 15:49 UTC | visa | [Apply](https://jaabz.com/jobs/303480-graduate-applied-ai-engineer) |
-| Junior Java Software Developer | BeaconFire Inc. | United States | 2026-11-12 15:47 UTC | visa | [Apply](https://jaabz.com/jobs/275212-artificial-intelligence-engineer) |
-| Full Stack Developer | BeaconFire Inc. | United States | 2026-11-12 15:47 UTC | visa | [Apply](https://jaabz.com/jobs/251190-java-full-stack-with-ai-integration) |
-| Senior Java Full-Stack Developer | BeaconFire Inc. | United State | 2026-11-12 15:47 UTC | visa | [Apply](https://jaabz.com/jobs/293249-java-full-stack-developer) |
-| Python Engineer | Radley James | SINGAPORE | 2026-11-12 15:44 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/281986-front-office-python-engineer-prop-trading) |
-| Backend Software Engineer - Generative AI | BeaconFire Inc. | United States | 2026-11-12 15:44 UTC | visa | [Apply](https://jaabz.com/jobs/277006-ai-engineer) |
-| Palantir Foundry Engineer | unit8 | SWITZERLAND | 2026-11-12 15:44 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283967-palantir-foundry-engineer-relocation-to-abu-dhabi-uae) |
-| Founding Senior Forward Deployed Engineer | Stealth Startup | United States | 2026-11-12 15:40 UTC | visa | [Apply](https://jaabz.com/jobs/285108-senior-forward-deployed-engineer) |
-| Backend Software Engineer – Java & Generative AI | BeaconFire Inc. | United States | 2026-11-12 15:40 UTC | visa | [Apply](https://jaabz.com/jobs/277005-ai-engineer-a-backend) |
-| Junior Data Scientist | Cobblestone Energy | UNITED ARAB EMIRATES | 2026-11-12 15:38 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/303467-junior-data-scientist) |
-| Senior ETL Developer / Senior Data Engineer (Azure & SQL) | robotics technologies | United States | 2026-11-12 14:48 UTC | visa | [Apply](https://jaabz.com/jobs/303458-senior-etl-developer-senior-data-engineer-azure-sql) |
-| Senior Platform Engineer (AI/ML Infrastructure) | glassdoor | SINGAPORE | 2026-11-12 14:47 UTC | visa | [Apply](https://jaabz.com/jobs/303461-senior-software-engineer-infrastructure) |
-| Lead Quality Engineer (Mobile Automation) | robotics technologies | United States | 2026-11-12 14:46 UTC | visa | [Apply](https://jaabz.com/jobs/303459-lead-qe-engineer) |
-| Lead Software Engineer (Safety Intelligence Platform) - Berlin | coera robotics | GERMANY | 2026-11-12 14:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/303460-lead-software-engineer) |
+| Full-Stack Engineer – AI Agents | careerjet | GERMANY | 2026-11-13 14:24 UTC | visa | [Apply](https://jaabz.com/jobs/304301-founding-engineer) |
+| Senior Dynamics 365 Customer Engagement Developer | an international it solution provider | NETHERLANDS | 2026-11-13 14:11 UTC | visa | [Apply](https://jaabz.com/jobs/304287-senior-d365-customer-engagement-ce-developer) |
+| Artificial Intelligence / Java Full Stack Engineer | BeaconFire Inc. | United States | 2026-11-13 14:08 UTC | visa | [Apply](https://jaabz.com/jobs/304288-artificial-intelligence-engineer) |
+| AI Developer (Spring Boot Microservices) - New York, NY | BeaconFire Inc. | United States | 2026-11-13 14:03 UTC | visa | [Apply](https://jaabz.com/jobs/304289-artificial-intelligence-engineer) |
+| Senior .NET Developer with Blazor & AI Integration (Hybrid) | System Soft Technologies | United States | 2026-11-13 14:02 UTC | visa | [Apply](https://jaabz.com/jobs/304243-sr-net-developer-ai-with-blazor-experience) |
+| Senior Software Engineer (Physics AI) - Space Systems | verra space | UNITED KINGDOM | 2026-11-13 13:59 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/304272-software-engineer-product-industrialisation-deployment) |
+| Data Team Lead / Lead Data Scientist | Harnham | NETHERLANDS | 2026-11-13 13:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/304283-data-team-lead-lead-data-scientist) |
+| Deputy Radiology IT Systems Manager | Dorset County Hospital NHS Foundation Trust | UNITED KINGDOM | 2026-11-13 13:45 UTC | visa | [Apply](https://jaabz.com/jobs/304259-deputy-radiology-it-systems-manager) |
+| Junior Software Engineer (Full-Time) – Java/Python Developer | tetrahed inc | United State | 2026-11-13 13:38 UTC | visa | [Apply](https://jaabz.com/jobs/286881-jr-software-engineer-full-time-strictly-opt-candidates-only) |
+| Senior Software Engineer (AI/ML Backend) | alexander chapman (ai startup) | CANADA | 2026-11-13 13:32 UTC | visa | [Apply](https://jaabz.com/jobs/304230-software-engineer-founding-engineer) |
+| Machine Learning Engineer (Mid-Level) - Barcelona | Multiverse Computing | SPAIN | 2026-11-13 12:58 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/304207-machine-learning-engineer-mid-level) |
+| Senior Databricks Engineer (Healthcare Domain) | machine learning technologies llc | United States | 2026-11-13 12:51 UTC | visa | [Apply](https://jaabz.com/jobs/304128-senior-databricks-engineer) |
+| Senior Site Reliability Engineer (Incident Management Platform) | wayve | United States | 2026-11-13 12:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/304130-staff-sre-incident-management) |
+| Founding Software Engineer – AI & Distributed Systems | surge group | United States | 2026-11-13 12:44 UTC | visa | [Apply](https://jaabz.com/jobs/304140-senior-software-engineer) |
+| Junior AI Systems Tester & Technical Coordinator | pending (linkedin.com) | UNITED KINGDOM | 2026-11-13 12:42 UTC | visa | [Apply](https://jaabz.com/jobs/304144-junior-ai-systems-tester-technical-coordinator-mandarin-speaking) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
