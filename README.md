@@ -31,6 +31,7 @@ Boards and platforms where sponsorship / immigration support is a first-class fi
 10. [Talent.io](https://www.talent.io/) — Europe tech matching; visa-friendly employers common.
 11. [WeAreDevelopers](https://www.wearedevelopers.com/jobs) — European tech jobs.
 12. [LinkedIn Jobs](https://www.linkedin.com/jobs/) — Keyword search: `visa sponsorship`, `relocation support`, Blue Card, etc.
+13. [EuroJobs.ai](https://eurojobs.ai) — 28,000+ IT jobs across Europe aggregated hourly from 21,000 employer career pages (Greenhouse, Lever, Ashby, Workable and others). Has a first-class **visa sponsorship filter** alongside country, remote, and English-speaking-team filters.
 
 ## Daily jobs from Jaabz
 
