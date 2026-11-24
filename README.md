@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-23 19:03** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-24 18:43** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Backend / Distributed Systems Engineer | kastel group | — | 2026-11-23 18:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311818-back-end-developer) |
-| Senior Microsoft 365 Security Engineer | a2g consulting bv | NETHERLANDS | 2026-11-23 18:37 UTC | visa | [Apply](https://jaabz.com/jobs/311822-senior-microsoft-365-security-engineer-a-zero-trust) |
-| Senior Network Security Engineer | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-23 18:36 UTC | visa | [Apply](https://jaabz.com/jobs/311823-senior-network-security-engineer) |
-| Embedded Software Engineer | theon group | SOUTH AFRICA | 2026-11-23 18:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311824-embedded-software-engineer-a-isr-systems) |
-| FPGA Engineer – ISR Systems | theon group | SOUTH AFRICA | 2026-11-23 18:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311826-fpga-soc-engineer-a-isr-systems) |
-| Senior Software Engineer - Cloud Infrastructure & Automation | Palo Alto Networks | United States | 2026-11-23 18:33 UTC | visa | [Apply](https://jaabz.com/jobs/311830-senior-principal-engineer-software) |
-| Senior .NET Developer | Talan | United States | 2026-11-23 18:32 UTC | visa | [Apply](https://jaabz.com/jobs/311831-netc-senior-software-developer) |
-| Lead .NET/C# Developer / Senior .NET Developer | Mindlance | United States | 2026-11-23 18:31 UTC | visa | [Apply](https://jaabz.com/jobs/311832-lead-netc-developersenior-net-developer-angularreact) |
-| AI Software Engineer, Supply Chain Integrations | clera | United States | 2026-11-23 18:20 UTC | visa | [Apply](https://jaabz.com/jobs/311922-software-engineer) |
-| Lead Software Engineer, Cybersecurity Governance | Wells Fargo | — | 2026-11-23 18:13 UTC | visa | [Apply](https://jaabz.com/jobs/311909-lead-software-engineer) |
-| Full Stack Developer | pending (visasponsor.jobs) | UNITED KINGDOM | 2026-11-23 18:07 UTC | visa | [Apply](https://jaabz.com/jobs/311905-full-stack-developer) |
-| Senior Business Analyst | Talan | United States | 2026-11-23 18:03 UTC | visa | [Apply](https://jaabz.com/jobs/311876-senior-business-analyst-rates) |
-| Category Analytics Manager | kiss beauty group | United States | 2026-11-23 17:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311880-category-analytics-manager) |
-| Entry-Level Data Analyst | ATC | United States | 2026-11-23 17:39 UTC | visa | [Apply](https://jaabz.com/jobs/176588-data-analyst) |
-| Senior Network & OT Infrastructure Engineer | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-23 17:25 UTC | visa | [Apply](https://jaabz.com/jobs/311845-senior-network-ot-infrastructure-engineer) |
+| Engineering Manager, Platform Security Engineering | anthropic | United States | 2026-11-24 18:36 UTC | visa | [Apply](https://jaabz.com/jobs/268008-engineering-manager-hardware-platform-security) |
+| Software Engineer – Image Processing | meridial | UNITED KINGDOM | 2026-11-24 18:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312688-meridial-a-senior-research-software-engineer-a-image-processing) |
+| Marketing Analytics Lead | anthropic | United States | 2026-11-24 18:20 UTC | visa | [Apply](https://jaabz.com/jobs/312689-marketing-analytics-lead-enterprise-marketing) |
+| Senior Automation & Controls Engineering Lead | rgbsi | United States | 2026-11-24 18:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312683-senior-automation-engineer) |
+| Software Engineer, AI Agent Infrastructure | inventure | United States | 2026-11-24 18:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312681-software-engineer-ai-agent-infrastructure-formal-verification-26m-seed-220k-350k-equity) |
+| Technical Lead - Windows & Active Directory | scaleops search ltd | NETHERLANDS | 2026-11-24 18:05 UTC | visa | [Apply](https://jaabz.com/jobs/312658-lead-infrastructure-engineer) |
+| Data Scientist | Capital One | United States | 2026-11-24 17:56 UTC | visa | [Apply](https://jaabz.com/jobs/312655-principal-associate-data-science-gpn) |
+| Lead Rust Engineer | labrys | UNITED KINGDOM | 2026-11-24 17:54 UTC | visa | [Apply](https://jaabz.com/jobs/312653-senior-rust-engineer-a-defence) |
+| Junior Generative AI Engineer | BeaconFire Inc. | United States | 2026-11-24 17:49 UTC | visa | [Apply](https://jaabz.com/jobs/312517-generative-ai-engineer) |
+| Technical Product Manager | MSD Czech Republic | CZECHIA | 2026-11-24 16:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312549-product-manager-crm-sales-ops-associate-director) |
+| Product Marketer | anthropic | United States | 2026-11-24 16:50 UTC | visa | [Apply](https://jaabz.com/jobs/312551-product-marketing-manager-platform) |
+| Product Manager | anthropic | United States | 2026-11-24 16:49 UTC | visa | [Apply](https://jaabz.com/jobs/312554-product-manager-claude-marketplace) |
+| AI Engineer, LLM Engineer, Data Scientist | Superstars | JAPAN | 2026-11-24 16:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312561-weare-hiring-ai-engineers-llm-engineers-data-scientists-d-ayen6maayen12m-yearly-d-tokyo-japan-hybrid-d-visa-sponsorship-relocation-support-available) |
+| Data Engineers, Data Analysts & IT Consultants | Superstars | JAPAN | 2026-11-24 16:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312562-d-weare-hiring-data-engineers-data-analysts-it-consultants-d-ayen5maayen15m-d-tokyo-japan-hybridremote-d-visa-sponsorship-relocation-support-available) |
+| Partner Marketing Manager | n8n | UNITED KINGDOM | 2026-11-24 16:18 UTC | visa | [Apply](https://jaabz.com/jobs/312571-senior-partner-marketing-manager-gsis) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
