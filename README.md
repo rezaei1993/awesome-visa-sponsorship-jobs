@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-24 18:43** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-25 17:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Engineering Manager, Platform Security Engineering | anthropic | United States | 2026-11-24 18:36 UTC | visa | [Apply](https://jaabz.com/jobs/268008-engineering-manager-hardware-platform-security) |
-| Software Engineer – Image Processing | meridial | UNITED KINGDOM | 2026-11-24 18:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312688-meridial-a-senior-research-software-engineer-a-image-processing) |
-| Marketing Analytics Lead | anthropic | United States | 2026-11-24 18:20 UTC | visa | [Apply](https://jaabz.com/jobs/312689-marketing-analytics-lead-enterprise-marketing) |
-| Senior Automation & Controls Engineering Lead | rgbsi | United States | 2026-11-24 18:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312683-senior-automation-engineer) |
-| Software Engineer, AI Agent Infrastructure | inventure | United States | 2026-11-24 18:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312681-software-engineer-ai-agent-infrastructure-formal-verification-26m-seed-220k-350k-equity) |
-| Technical Lead - Windows & Active Directory | scaleops search ltd | NETHERLANDS | 2026-11-24 18:05 UTC | visa | [Apply](https://jaabz.com/jobs/312658-lead-infrastructure-engineer) |
-| Data Scientist | Capital One | United States | 2026-11-24 17:56 UTC | visa | [Apply](https://jaabz.com/jobs/312655-principal-associate-data-science-gpn) |
-| Lead Rust Engineer | labrys | UNITED KINGDOM | 2026-11-24 17:54 UTC | visa | [Apply](https://jaabz.com/jobs/312653-senior-rust-engineer-a-defence) |
-| Junior Generative AI Engineer | BeaconFire Inc. | United States | 2026-11-24 17:49 UTC | visa | [Apply](https://jaabz.com/jobs/312517-generative-ai-engineer) |
-| Technical Product Manager | MSD Czech Republic | CZECHIA | 2026-11-24 16:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312549-product-manager-crm-sales-ops-associate-director) |
-| Product Marketer | anthropic | United States | 2026-11-24 16:50 UTC | visa | [Apply](https://jaabz.com/jobs/312551-product-marketing-manager-platform) |
-| Product Manager | anthropic | United States | 2026-11-24 16:49 UTC | visa | [Apply](https://jaabz.com/jobs/312554-product-manager-claude-marketplace) |
-| AI Engineer, LLM Engineer, Data Scientist | Superstars | JAPAN | 2026-11-24 16:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312561-weare-hiring-ai-engineers-llm-engineers-data-scientists-d-ayen6maayen12m-yearly-d-tokyo-japan-hybrid-d-visa-sponsorship-relocation-support-available) |
-| Data Engineers, Data Analysts & IT Consultants | Superstars | JAPAN | 2026-11-24 16:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312562-d-weare-hiring-data-engineers-data-analysts-it-consultants-d-ayen5maayen15m-d-tokyo-japan-hybridremote-d-visa-sponsorship-relocation-support-available) |
-| Partner Marketing Manager | n8n | UNITED KINGDOM | 2026-11-24 16:18 UTC | visa | [Apply](https://jaabz.com/jobs/312571-senior-partner-marketing-manager-gsis) |
+| AI Research Recruiter | anthropic | United States | 2026-11-25 17:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/136686-recruiter-ai-research) |
+| Senior Machine Learning Engineer | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-25 17:11 UTC | visa | [Apply](https://jaabz.com/jobs/313422-senior-machine-learning-engineer-a-mlops-pricing-gcp) |
+| Entry-Level Java Full Stack Developer with AI Integration | BeaconFire Inc. | United States | 2026-11-25 17:08 UTC | visa | [Apply](https://jaabz.com/jobs/276946-artificial-intelligence-engineer) |
+| Designer - AI Product Design at Anthropic | anthropic | United States | 2026-11-25 16:57 UTC | visa | [Apply](https://jaabz.com/jobs/313410-product-designer-safeguards) |
+| Senior Product Marketing Lead | DeepSpin | GERMANY | 2026-11-25 16:56 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/313409-head-of-marketing-communications-mfd) |
+| Dexterous Hands Lead (Founding Team Lead) - Humanoid Robotics | Cubiq Recruitment | GERMANY | 2026-11-25 16:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/313402-dexterous-hands-lead-founding-team-lead) |
+| Lead / Staff QA Engineer | talentmate | UNITED ARAB EMIRATES | 2026-11-25 16:04 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283324-staff-quality-assurance-engineer) |
+| Java Full Stack Developer | BeaconFire Inc. | United States | 2026-11-25 15:56 UTC | visa | [Apply](https://jaabz.com/jobs/190127-back-end-developer) |
+| AI Developer | BeaconFire Inc. | United States | 2026-11-25 15:44 UTC | visa | [Apply](https://jaabz.com/jobs/313394-java-software-engineer) |
+| Junior Generative AI Engineer | BeaconFire Inc. | United States | 2026-11-25 15:36 UTC | visa | [Apply](https://jaabz.com/jobs/313392-generative-ai-engineer) |
+| Computer Vision Engineer | coera | GERMANY | 2026-11-25 15:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/313391-computer-vision-engineer-robotics-ai) |
+| Senior Software Engineer - EV Charging Platform | GreenFlux | NETHERLANDS | 2026-11-25 15:08 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/313375-senior-software-engineer) |
+| Junior Data Engineer | BeaconFire Inc. | United States | 2026-11-25 15:05 UTC | visa | [Apply](https://jaabz.com/jobs/313386-data-engineer) |
+| Software Engineer, Platform Foundation | dataleap (yc s24) | GERMANY | 2026-11-25 15:00 UTC | visa | [Apply](https://jaabz.com/jobs/262183-founding-engineer-platformbackend) |
+| Backend Java Engineer (Entry Level) | BeaconFire Inc. | United State | 2026-11-25 15:00 UTC | visa | [Apply](https://jaabz.com/jobs/292869-backend-java-engineer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
