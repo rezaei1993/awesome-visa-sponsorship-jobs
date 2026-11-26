@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-25 17:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-26 17:36** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| AI Research Recruiter | anthropic | United States | 2026-11-25 17:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/136686-recruiter-ai-research) |
-| Senior Machine Learning Engineer | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-25 17:11 UTC | visa | [Apply](https://jaabz.com/jobs/313422-senior-machine-learning-engineer-a-mlops-pricing-gcp) |
-| Entry-Level Java Full Stack Developer with AI Integration | BeaconFire Inc. | United States | 2026-11-25 17:08 UTC | visa | [Apply](https://jaabz.com/jobs/276946-artificial-intelligence-engineer) |
-| Designer - AI Product Design at Anthropic | anthropic | United States | 2026-11-25 16:57 UTC | visa | [Apply](https://jaabz.com/jobs/313410-product-designer-safeguards) |
-| Senior Product Marketing Lead | DeepSpin | GERMANY | 2026-11-25 16:56 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/313409-head-of-marketing-communications-mfd) |
-| Dexterous Hands Lead (Founding Team Lead) - Humanoid Robotics | Cubiq Recruitment | GERMANY | 2026-11-25 16:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/313402-dexterous-hands-lead-founding-team-lead) |
-| Lead / Staff QA Engineer | talentmate | UNITED ARAB EMIRATES | 2026-11-25 16:04 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283324-staff-quality-assurance-engineer) |
-| Java Full Stack Developer | BeaconFire Inc. | United States | 2026-11-25 15:56 UTC | visa | [Apply](https://jaabz.com/jobs/190127-back-end-developer) |
-| AI Developer | BeaconFire Inc. | United States | 2026-11-25 15:44 UTC | visa | [Apply](https://jaabz.com/jobs/313394-java-software-engineer) |
-| Junior Generative AI Engineer | BeaconFire Inc. | United States | 2026-11-25 15:36 UTC | visa | [Apply](https://jaabz.com/jobs/313392-generative-ai-engineer) |
-| Computer Vision Engineer | coera | GERMANY | 2026-11-25 15:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/313391-computer-vision-engineer-robotics-ai) |
-| Senior Software Engineer - EV Charging Platform | GreenFlux | NETHERLANDS | 2026-11-25 15:08 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/313375-senior-software-engineer) |
-| Junior Data Engineer | BeaconFire Inc. | United States | 2026-11-25 15:05 UTC | visa | [Apply](https://jaabz.com/jobs/313386-data-engineer) |
-| Software Engineer, Platform Foundation | dataleap (yc s24) | GERMANY | 2026-11-25 15:00 UTC | visa | [Apply](https://jaabz.com/jobs/262183-founding-engineer-platformbackend) |
-| Backend Java Engineer (Entry Level) | BeaconFire Inc. | United State | 2026-11-25 15:00 UTC | visa | [Apply](https://jaabz.com/jobs/292869-backend-java-engineer) |
+| Fluid Systems Development Engineer – Storm Engine Project | The Exploration Company | GERMANY | 2026-11-26 17:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314231-fluid-systems-development-engineer) |
+| Senior Java Full Stack Developer with AI Integration (Spring Boot, Microservices) | BeaconFire Inc. | United State | 2026-11-26 17:33 UTC | visa | [Apply](https://jaabz.com/jobs/293377-l1-java-developer) |
+| Senior Machine Learning Research Engineer – Speech & Audio AI | premier global links llc | United States | 2026-11-26 17:27 UTC | visa | [Apply](https://jaabz.com/jobs/314227-senior-machine-learning-research-engineer) |
+| Java Software Engineer | BeaconFire Inc. | United States | 2026-11-26 17:24 UTC | visa | [Apply](https://jaabz.com/jobs/314222-java-software-engineer) |
+| Senior LLM & RAI Engineer | ikevora | United States | 2026-11-26 17:23 UTC | visa | [Apply](https://jaabz.com/jobs/314223-ai-engineers-senior-staff-principal) |
+| Pre-Sales Solutions Architect – Applied AI (India/APAC) | anthropic | INDIA | 2026-11-26 16:58 UTC | visa | [Apply](https://jaabz.com/jobs/314190-applied-ai-architect-global-customers) |
+| Product Marketing Specialist | 1m technology global | VIETNAM | 2026-11-26 16:22 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314185-product-marketing-specialist) |
+| Senior Product Marketing Manager | Stealth Startup | United States | 2026-11-26 16:19 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314184-senior-product-marketing-manager) |
+| Database Administrator – Oracle / SQL Server / Cloud | cinergie digital | UNITED ARAB EMIRATES | 2026-11-26 15:56 UTC | visa | [Apply](https://jaabz.com/jobs/314159-database-administrator-oracle-apps-dba) |
+| AI Associate – Agentic Workflows & Automation | finxl it professional services | AUSTRALIA | 2026-11-26 15:55 UTC | visa | [Apply](https://jaabz.com/jobs/314120-ai-associate-agentic-workflows-automation) |
+| Senior IT Project Manager – Laboratory Systems (Pharma) | Jobgether | PORTUGAL | 2026-11-26 15:53 UTC | visa | [Apply](https://jaabz.com/jobs/314158-senior-it-project-manager-a-laboratory-systems-in-pharma) |
+| Fullstack Engineer – Treasury Money Movement | Wise | UNITED KINGDOM | 2026-11-26 15:42 UTC | visa | [Apply](https://jaabz.com/jobs/314155-fullstack-engineer-treasury-money-movement) |
+| Applied AI Engineer (Graduate) | resonance | UNITED KINGDOM | 2026-11-26 15:36 UTC | visa | [Apply](https://jaabz.com/jobs/314148-graduate-applied-ai-engineer) |
+| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-11-26 15:35 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
+| Senior Data Scientist | pair finance | GERMANY | 2026-11-26 15:34 UTC | visa | [Apply](https://jaabz.com/jobs/244951-senior-data-scientist-fmd) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
