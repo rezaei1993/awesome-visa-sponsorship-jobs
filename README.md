@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-26 17:36** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-27 17:18** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Fluid Systems Development Engineer – Storm Engine Project | The Exploration Company | GERMANY | 2026-11-26 17:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314231-fluid-systems-development-engineer) |
-| Senior Java Full Stack Developer with AI Integration (Spring Boot, Microservices) | BeaconFire Inc. | United State | 2026-11-26 17:33 UTC | visa | [Apply](https://jaabz.com/jobs/293377-l1-java-developer) |
-| Senior Machine Learning Research Engineer – Speech & Audio AI | premier global links llc | United States | 2026-11-26 17:27 UTC | visa | [Apply](https://jaabz.com/jobs/314227-senior-machine-learning-research-engineer) |
-| Java Software Engineer | BeaconFire Inc. | United States | 2026-11-26 17:24 UTC | visa | [Apply](https://jaabz.com/jobs/314222-java-software-engineer) |
-| Senior LLM & RAI Engineer | ikevora | United States | 2026-11-26 17:23 UTC | visa | [Apply](https://jaabz.com/jobs/314223-ai-engineers-senior-staff-principal) |
-| Pre-Sales Solutions Architect – Applied AI (India/APAC) | anthropic | INDIA | 2026-11-26 16:58 UTC | visa | [Apply](https://jaabz.com/jobs/314190-applied-ai-architect-global-customers) |
-| Product Marketing Specialist | 1m technology global | VIETNAM | 2026-11-26 16:22 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314185-product-marketing-specialist) |
-| Senior Product Marketing Manager | Stealth Startup | United States | 2026-11-26 16:19 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314184-senior-product-marketing-manager) |
-| Database Administrator – Oracle / SQL Server / Cloud | cinergie digital | UNITED ARAB EMIRATES | 2026-11-26 15:56 UTC | visa | [Apply](https://jaabz.com/jobs/314159-database-administrator-oracle-apps-dba) |
-| AI Associate – Agentic Workflows & Automation | finxl it professional services | AUSTRALIA | 2026-11-26 15:55 UTC | visa | [Apply](https://jaabz.com/jobs/314120-ai-associate-agentic-workflows-automation) |
-| Senior IT Project Manager – Laboratory Systems (Pharma) | Jobgether | PORTUGAL | 2026-11-26 15:53 UTC | visa | [Apply](https://jaabz.com/jobs/314158-senior-it-project-manager-a-laboratory-systems-in-pharma) |
-| Fullstack Engineer – Treasury Money Movement | Wise | UNITED KINGDOM | 2026-11-26 15:42 UTC | visa | [Apply](https://jaabz.com/jobs/314155-fullstack-engineer-treasury-money-movement) |
-| Applied AI Engineer (Graduate) | resonance | UNITED KINGDOM | 2026-11-26 15:36 UTC | visa | [Apply](https://jaabz.com/jobs/314148-graduate-applied-ai-engineer) |
-| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-11-26 15:35 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
-| Senior Data Scientist | pair finance | GERMANY | 2026-11-26 15:34 UTC | visa | [Apply](https://jaabz.com/jobs/244951-senior-data-scientist-fmd) |
+| Senior FPGA Design Engineer – Quantum Computing Hardware (4 Positions) | connect-ai | NETHERLANDS | 2026-11-27 17:07 UTC | visa | [Apply](https://jaabz.com/jobs/315035-senior-fpga-design-engineer) |
+| AI Engineer | neno | NETHERLANDS | 2026-11-27 17:06 UTC | visa | [Apply](https://jaabz.com/jobs/315036-ai-engineer) |
+| Manual QC Engineer (Mid/Senior) – Dubai, UAE | matchupf | UNITED ARAB EMIRATES | 2026-11-27 16:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/315034-quality-control-engineer) |
+| Senior Partner Marketing Manager - GSIs | n8n | POLAND | 2026-11-27 16:52 UTC | visa | [Apply](https://jaabz.com/jobs/314955-senior-partner-marketing-manager-gsis) |
+| Data and AI Engineer | techbyte talent ltd | UNITED KINGDOM | 2026-11-27 16:50 UTC | visa | [Apply](https://jaabz.com/jobs/315031-ai-data-engineer) |
+| Product Manager – Membership & Shared Member Experience | lyvra | JAPAN | 2026-11-27 16:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/315021-web-product-manager-membership-points-platform-fluent-japanese) |
+| Senior Requirements Analyst - Banking Domain | umpisa inc | PHILIPPINES | 2026-11-27 16:46 UTC | visa | [Apply](https://jaabz.com/jobs/256858-it-business-analyst-client-site-with-relocation-package) |
+| Technical Program Manager – Generative AI Customer Service Platform | talentia consulting | JAPAN | 2026-11-27 16:27 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/315018-technical-project-manager-n2-open-to-relocation) |
+| Mobile Developer | KWAN | PORTUGAL | 2026-11-27 16:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314816-mobile-developer) |
+| Senior Backend Engineer – Next-Gen Financial Services (Go / AWS) | g talent | JAPAN | 2026-11-27 16:22 UTC | visa | [Apply](https://jaabz.com/jobs/314821-asenior-backend-engineera-fintech-next-gen-financial-services-for-major-banks-go-aws-upstream-to-release-hybrid-business-level-japanese) |
+| DevOps / Platform Engineer – Kong API Gateway & Kubernetes | A2G Consulting BV (A2G Technologies) | NETHERLANDS | 2026-11-27 16:16 UTC | visa | [Apply](https://jaabz.com/jobs/315008-devops-engineer-a-api-platform-kong) |
+| Embedded Software Engineer – C++ (Industrial Automation) | eagle-x | UNITED KINGDOM | 2026-11-27 16:02 UTC | visa | [Apply](https://jaabz.com/jobs/314903-embedded-software-engineer-c-rtos-stm32mp2) |
+| Head of Enterprise Product | n8n | GERMANY | 2026-11-27 16:00 UTC | visa | [Apply](https://jaabz.com/jobs/314937-head-of-enterprise-product) |
+| Senior Staff Product Manager, B2B Care Solutions | verily | United States | 2026-11-27 15:16 UTC | visa | [Apply](https://jaabz.com/jobs/314985-senior-staff-product-manager-b2b-care-solutions) |
+| Senior Cybersecurity Consulting Lead | pending (visasponsor.jobs) | United States | 2026-11-27 15:10 UTC | visa | [Apply](https://jaabz.com/jobs/314990-senior-cybersecurity-consulting-lead) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
